@@ -1,0 +1,944 @@
+comments,sosmed,label
+"['calon', 'presiden', 'miskin', 'percaya', 'panutan', 'butuh', 'panutan', 'kaya', 'keras', 'cocoke', 'patuh']",instagram,1
+"['c1', 'palsu', 'jurdil']",instagram,2
+"['sidang', 'mahkamah', 'agung', 'milu', 'kayak']",instagram,2
+"['banget', 'bu']",instagram,0
+"['krakyat', 'indonesiam', 'berkas', 'via', 'email', 'dikrakyat', 'indonesiarakyat', 'indonesiamahkamah', 'agung', '3', 'rantidakap']",instagram,2
+"['selbanget', 'andal', 'golkar']",instagram,2
+"['semangat', 'nyala', 'abah', 'ku']",instagram,1
+"['rakyat', 'indonesiantah', 'anis', 'persiden', 'anak', 'persiden', 'wakil', 'persiden', 'rakyat', 'indonesiatahan', 'rela', 'proyek', 'kelola', 'anak', 'coba', 'liat', 'ssaja', 'keluargaa', 'masukin', 'rakyat', 'indonesiantahan', 'anak', 'mantu', 'nama', 'rakyat', 'indonesiantahan', 'keluargaa', 'rakayat', 'orang2', 'cerdas', 'keluarga', 'seleksi', 'banget', 'coba', 'mikir', 'rakayat', 'cerdas']",instagram,1
+"['ngabisi', 'mat', 'senmasih', '02', 'lantik']",instagram,2
+"['nyala', '2024']",instagram,0
+"['bawa2', 'politik', 'musibah', 'bawa2', 'politik', 'harap', 'rakyat', 'indonesiantah', 'tatidakp', 'musibah', 'timpa', 'saudahra', 'sana']",instagram,2
+"['omong', 'omong', 'kokek', 'ada', 'pilih']",instagram,2
+"['rakyat', 'indonesiamakasih', 'srakyat', 'indonesia', 'mulyaniuntuk', 'penjelasannyasemoga', 'benci', 'presiden', 'jokowi', 'buka', 'hati', 'selbanget', 'buta', 'benci', 'hina2an', 'mendasarapapun', 'cerakyat', 'indonesiatanya', 'hutang2', 'negarasebanding', 'bangun', 'jokowi', 'memimpinsehat']",instagram,2
+"['wes', 'angel', 'angel', 'angel', 'abot']",instagram,1
+"['menang', 'muliakalah', 'hinatapi', 'curang', 'sudahh', 'celaka']",instagram,2
+"['ghoib', 'kang', 'darakyat', 'indonesia', '28', '31']",instagram,0
+"['tidakk', 'rela', 'dukung', 'tidakk', 'ngomong']",instagram,0
+"['barakyat', 'indonesiasan', 'amiin', 'biar', 'adil', 'allah']",instagram,1
+"['sumber', 'data', 'rujuk', 'mana']",instagram,1
+"['nonton', 'siksa', 'kubur']",instagram,2
+"['khawatir', 'rakyat', 'indonesiata', 'indepth', 'investigasi', 'temen2', 'pers', 'ku', 'semangat', 'upskill', 'wartawan', 'investigasi', 'plus', 'backup', 'plan', 'kabur', 'semangat', 'pegang', 'erat']",instagram,0
+"['bukti', 'hasil', 'suara', 'psi', 'nambah', 'ngambil', 'suara', 'sah']",instagram,2
+"['temen2', 'salah', 'tafsir', 'potong', 'nyata', 'ambil', 'melirakyat', 'indonesiak', 'kokenteks', 'kemuntidakinan', 'kokealisi', 'pada', 'pks', 'klaten', 'kokensepnya', 'kader', 'darakyat', 'indonesia', 'pada', 'dipasantidakan', 'rakyat', 'indonesiadwan', 'hanif', 'beliau', 'paham', 'rekan2', 'pks', 'sehitidak', 'rakyat', 'indonesiadwan', 'hanof', 'wakil', 'darakyat', 'indonesia', 'pks', 'sejarah', 'bicara', '2015', 'klaten', 'pada', 'kokealisi', 'pks']",instagram,1
+"['mantap', 'tuju', 'buk', 'kader', 'pdip', 'daerah', 'mana']",instagram,3
+"['emir', 'qatar', 'prabowo', 'anak', 'jokowiemir', 'qatar', 'gede', 'skg', 'udahh', 'pinter', 'nyarakyat', 'indonesia', 'kerja', 'gibran', 'omm', 'pinter', 'nyarakyat', 'indonesiain', 'kerja']",instagram,2
+"['aneh', 'banget', 'stemen']",instagram,0
+"['percaya', 'lanjut', 'tangan', 'mu', 'prabowo']",instagram,2
+"['kelas', 'presiden', 'kokementarnya', 'pikir', 'akalakalan', 'pake', 'data', 'rakayat', 'ssaja', 'ngumpulin', 'bukti', 'curang', 'pake', 'data', 'kokek']",instagram,2
+"['02', 'tuju', 'pks', 'gabung', 'prabowo', 'gibran', 'silah', 'pks', 'oposisi']",instagram,2
+"['tuaduh', 'ijazah', 'palsu', 'anak', 'abah', 'anak2', 'abah', 'sekolah']",instagram,1
+"['ubah', 'realisasi']",instagram,1
+"['tv', 'one', 'buzer', 'psi']",instagram,2
+"['perempuan', 'perempuan', 'tarung', 'darakyat', 'indonesia', 'partai', 'golkar', 'bawa', 'indonesia', 'maju']",instagram,2
+"['kokecak', 'banget', 'dukung', 'kampanye', 'batidak', 'banget', 'program', 'buzer', 'bantu', '02', 'support', 'lokeal', 'umahkamah', 'agungm']",instagram,2
+['macella'],instagram,0
+"['mental', 'pola', 'pikir', 'masayaarakatanyaa', 'ubah', 'akar', 'darakyat', 'indonesia', 'masayaarakatanyaa', 'sendirakyat', 'indonesia', '999', 'mau', 'suara', 'dibelidibayar', 'coba']",instagram,2
+"['banpres', 'bagi', 'bansos', 'latidakr', 'uu']",instagram,1
+"['benar2', 'sentidakuni', 'malu']",instagram,0
+"['wapres', 'kenapa', 'mundur']",instagram,2
+"['mudahh2', 'hakim', 'mahkamah', 'agung', 'bohong', 'balas', 'sesuai', 'putus']",instagram,2
+"['lupa', 'nasdem', 'tuju', 'omnibus', 'law']",instagram,1
+"['bener2', 'kalah', 'legowogimana', 'menangtiap', 'daerah', '02', 'unggul']",instagram,2
+"['01', '03']",instagram,2
+"['hasil', 'survey', 'lakulan', 'semdirakyat', 'indonesia', 'pesanandi', 'laku', 'prof', 'darakyat', 'indonesia', 'ipb', 'bogor', 'idham', 'khurakyat', 'indonesia', 'fan', 'hasil', 'sungguh', 'gembira', 'profdarakyat', 'indonesiaabah', 'anies', 'muhaimin', 'calon', 'presiden', 'wakil', 'presiden', '2024', '2034insayaa', 'allah', 'menangaamin', 'rabbal', 'alamin']",instagram,1
+"['curang', 'ngapain', 'videokean']",instagram,2
+['uhuuuiyyy'],instagram,0
+"['wooowwww', 'job', 'indo', 'banget']",instagram,0
+"['maling', 'handphone', 'penjara', '7', 'tahunmaling', 'pitih', 'masarakaik', 'penjara', '2']",instagram,0
+"['selbanget', 'moga', 'amanah']",instagram,0
+['2'],instagram,2
+"['ubah', 'suara']",instagram,0
+"['biar', 'kapoke', 'jaga', 'mulut']",instagram,0
+"['wakil', 'presiden', 'ku', 'masayaarakat', 'indonesia', '02']",instagram,2
+"['sg', 'kalah', 'kemlipik', 'golet', 'dal', 'berkokear2', 'curang2', 'lapor2awit', 'jaman', 'clurut', 'klimis', 'tekan', 'clurut', 'kumisen', 'ora', 'gumun']",instagram,0
+"['gaskeun', 'bang', 'karya']",instagram,0
+"['bilang', 'atidak', 'emang']",instagram,0
+[],instagram,0
+"['batidak', 'pilih', '02']",instagram,2
+"['amin', 'rabbal', 'alamin', 'moga', 'sukses', 'ssaja', 'gibran', 'bawa', 'indonesia', 'maju', 'darakyat', 'indonesia', 'segi', 'perekokenomian', 'rakayat', 'makmur']",instagram,2
+"['abah', 'adem', 'ayem', 'benci', 'panas']",instagram,1
+"['salut', 'pks', 'kader', 'pilih', 'pks', 'milu', '2024selanjutanyaa', 'gantung', 'sikap', 'pks']",instagram,1
+"['menohoke', 'paslon', 'rakyat', 'indonesiang', 'rendah', 'gibran', 'debat']",instagram,2
+"['tau', 'tau', 'yangy', 'program', 'distrakyat', 'indonesiabusinya', 'bibit', 'dasar', 'darakyat', 'indonesia', 'rakyat', 'indonesialaku', 'kokerupsi', 'tau', 'gatau', 'tau']",instagram,2
+"['menyalaaa', 'presidenkuu']",instagram,0
+"['nikmat', 'jabat', 'dunia', 'akhirat', 'pertanggungjawabannya']",instagram,2
+"['program', 'makan', 'siang', 'outapiutanyaa']",instagram,2
+"['cak', 'imin', 'ngarep']",instagram,1
+"['ketar', 'tir', 'pdip', 'maju', 'mundur', 'king', 'politik', 'indonesia', 'jokowi']",instagram,2
+"['beliau', 'presiden', 'baik']",instagram,0
+"['kawal', 'presiden', 'jabat']",instagram,0
+"['panas', 'ganjar', 'fakta']",instagram,3
+"['rakyat', 'indonesiamakasih', 'sudahh', 'wakil', 'suara', 'hati']",instagram,0
+"['prabroro', 'kokemcad', 'indonesia']",instagram,2
+"['anies', 'baswedan', 'rakyat', 'indonesia', 'contoh', 'negara']",instagram,1
+"['tabaraqallah', 'presiden', 'ku', 'moga', 'sehat', 'penuh', 'untung', 'aamiin']",instagram,0
+"['pilih', 'mayorakyat', 'indonesiatas', 'masayaarakat', 'sumbar', 'hadir', 'tengah2', 'penderakyat', 'indonesiataan', 'rakayat', 'landa', 'bencana', 'sebaikbaiknya', 'pimpin', 'hadir', 'tengah2', 'rakayatanyaa', 'suka', 'duka', 'moga', 'bantu', 'darakyat', 'indonesia', 'bantu', 'rakyat', 'indonesiangankan', 'beban', 'saudahra2', 'sumbar', 'landa', 'musibah']",instagram,1
+"['bravo', 'president', 'ku', 'rakyat', 'indonesia', 'ke8']",instagram,0
+"['legislative', 'oke', 'executive', 'oke', 'yudicative']",instagram,0
+"['suuzon', 'suci', 'proyek', 'ektapi', 'ciprat']",instagram,0
+"['prabowo', 'subianto', 'erakyat', 'indonesiack', 'thohir', 'sty']",instagram,2
+"['subhanallah', 'haru', 'amin', 'menang', '1', 'putaranamin', 'presiden', 'rakyat', 'indonesia', 'thn2024qobul']",instagram,1
+"['lanjuntukan', '2029', 'naek', 'rakyat', 'indonesia', '1', 'warga', 'jakarta', 'rakyat', 'indonesiandu', 'pimpin', 'jakarta']",instagram,1
+"['allah', 'maha', 'baik', 'anies']",instagram,1
+"['02', 'ttapi', 'hati']",instagram,2
+"['bentar', 'dititidakk', 'cak', 'imin']",instagram,1
+"['saran', 'dukung', 'anis', 'kenan', 'layar', 'dukung', 'bangun', 'karakter', 'anak', 'bangsa', 'berakhlakul', 'kharakyat', 'indonesiamah']",instagram,1
+"['keren', 'garut']",instagram,0
+"['cantidakem', 'mu']",instagram,1
+"['mantap', 'pilih', 'amin', 'tumbantidakan', 'dinasti', 'politik']",instagram,1
+"['serah', 'rakyat', 'indonesiantahan', 'indonesia', 'ahli', 'terus', 'kerusakannyawaktunya', 'ubah', 'kembali', 'indonesia', 'jalur', 'aminssajadulu']",instagram,1
+"['anies', 'bangsa']",instagram,1
+"['harakyat', 'indonesia', 'ikhtiar', 'beliau', 'rakyat', 'indonesia', 'ujung', 'harap', 'tim', 'prakyat', 'indonesiabadi', 'presiden', 'milik', 'presiden', 'beliau', 'cerdas', 'wibawa', 'iq', 'fisik', 'milik', 'jiwa', 'pimpin', 'milik', 'negara', 'manusia', 'lantidaka']",instagram,1
+"['ayo', 'amin', 'indonesia', 'pilih', 'amin', '1', 'lai', 'allah', 'rakyat', 'indonesia', 'takdir', 'mu', 'allah', 'anies', 'baswedan', 'muhaimin', 'iskandar', 'presiden', 'wakil', 'presiden', 'republik', 'indonesia', '20242029', 'ijin', 'rakyat', 'indonesiadho', 'mu', 'allah', 'kabul', 'mohon', 'kamiaamiin', 'aamiin']",instagram,1
+"['anak', '5', '1', 'cewek', '4', 'cowoke', 'feelintidaku', 'istrakyat', 'indonesia', 'abah', 'anies', 'cocoke', 'rakyat', 'indonesia']",instagram,1
+"['rakyat', 'indonesiaus', 'keluargaa', 'prakyat', 'indonesiansipnya', 'emang', 'ga', 'malu', 'miskah']",instagram,0
+"['nasehat', 'tin', 'suharto', 'didik', 'generasi', 'residen', 'rakyat', 'indonesia', '2024']",instagram,2
+"['anies', 'cak', 'imin', 'best']",instagram,1
+['wawwwwww'],instagram,0
+"['dukung', 'ubah', 'apa', 'hasil', 'selbangetkan', 'indonesia']",instagram,1
+"['awas', 'kuat', 'rakayat', '5858', 'gerak', '02', 'kualifikasi']",instagram,2
+"['akun', 'lawat', 'diblokeir', 'sssaja', 'akuntidak', 'beda', 'anis', 'yaman', 'suka', 'rakyat', 'indonesiabutan']",instagram,1
+"['masayaaallah', 'hakim', 'takut', 'allah', 'takut', 'manusia', 'keren', 'arakyat', 'indonesiaef', 'moga', 'allah', 'lindung', 'kel']",instagram,0
+"['pokeokeknya', 'menang', 'kasih', 'celah', 'buat', 'curang']",instagram,1
+"['percaya', 'penuh', 'rakyat', 'indonesiantah', 'rakyat', 'indonesiantahan', 'pihak', 'kalang', 'rakayat', 'moga', '01', 'menang', '1', 'putar', 'aamiin']",instagram,1
+"['ganjar', 'rakyat', 'indonesia', 'pdipjadi', 'sudahh', 'merasaomongannya', 'didengarjokowi', 'ssaja', 'hasil', 'presiden', '2', 'rakyat', 'indonesiaode', 'ssajadiatidakp', 'boneka', 'megawatiapalagi', '17', 'persen']",instagram,3
+"['sesuai', 'fakta']",instagram,0
+"['ngsajak', 'koke', 'ssajak']",instagram,0
+"['ganjar', 'mahfud', 'baik']",instagram,3
+"['jawa', 'suka', 'nasi', 'pecel', 'jatim']",instagram,0
+"['semogaa', 'umur', 'pakwalau', 'kalah', 'pilih', 'presidentapi', 'ganjar', 'ttapi', 'hati', 'paktidak', 'ganti']",instagram,3
+['pilih'],instagram,0
+"['benar', 'dittidakkan', 'nkrakyat', 'indonesia', 'pada', 'juang', 'harga', 'mati']",instagram,0
+"['tanya', 'sederhana', '2', '3', 'sama2', 'lanjut', 'ahli', 'butuh', 'negara', 'maju', 'rakyat', 'indonesiantahan', 'ssaja', 'visi', 'sama2', 'lanjut', '01', 'ga', 'gabung', '02', 'wssajar', 'tema', 'ubah', 'mengssajak', 'ganjar', 'kabinet', 'mahfud', 'oke', 'kabinet', 'ahli', 'beliau', 'butuh']",instagram,3
+"['rekam', 'jejak', 'positif', 'ganjar', 'pranowo', 'mahfud', 'pilih', 'pimpin', 'indonesia', 'marakyat', 'indonesia', 'satu', 'menang', 'pilih', 'presiden', 'thn', '2024']",instagram,3
+"['kelas', 'oposisi', 'terhormatanyaa', 'prof']",instagram,3
+"['hebat', 'jokowi', 'dunia', 'segani', 'rg']",instagram,2
+"['joggeeeeed', 'maaank']",instagram,2
+"['mending', 'kalah', 'darakyat', 'indonesiapada', 'jilat', 'ludahh', 'sendirakyat', 'indonesia']",instagram,1
+"['peluang', '2', 'putar', 'moga', 'ssaja', 'aamiin']",instagram,0
+"['darakyat', 'indonesia', 'kapolrakyat', 'indonesia', 'mending', '03', 'panggil', 'smua', 'rakayat', 'sidang', 'mahkamah', 'agung', 'tanyaain', 'nyoblos', 'pilih', 'presiden']",instagram,3
+"['16', 'ssaja', 'rakyat', 'indonesiasik']",instagram,0
+"['gentleman', 'abantidaku']",instagram,0
+"['sehat', 'ganjar']",instagram,3
+"['percaya', 'bang', 'rocky']",instagram,0
+"['hormat', 'ganjar', 'pranowo', 'layak', 'presiden', 'ke8', 'republik', 'indonesia', '20242029', 'm3tal', 'keren', 'maksimal']",instagram,3
+"['kuliner', 'bapakeanekaragaman', 'kuliber', 'indonesia', 'hebatsehat', 'ganjar', 'sklg']",instagram,3
+['value'],instagram,0
+"['dukung', '02', 'sudahh', 'hasil', 'antar', 'prabowo', 'gibran', 'menang', 'putar']",instagram,2
+"['aset', 'diaceh', 'giur', 'darakyat', 'indonesiapada', 'pulau', 'jawa']",instagram,0
+"['pura', 'pura', 'baik2', 'sssaja']",instagram,0
+['balik'],instagram,0
+"['sueneng', 'presiden', 'pilih', 'bahagia', 'titik']",instagram,2
+"['ga', 'rasa', 'baca', 'caption', 'ssaja', 'nang', 'naro', 'ceker', 'mercon']",instagram,0
+"['new', 'orba', 'reborn', 'ganggu', 'tim', 'mawar']",instagram,2
+"['aneh', 'ga', 'kasih', 'krakyat', 'indonesiatikan', 'atur', 'kuasa', 'rakayat', 'rakayat', 'ga', 'suara', 'dibuatbapa', 'negerakyat', 'indonesia', 'liat', 'super', 'orba', 'bangun', 'menjssajah', 'rakayat', 'membuntidakam', 'rakayat', 'hebaat', 'gemoy']",instagram,2
+"['sejarah', 'indonesia', 'presiden', 'berani', 'lawan', 'negara', 'asing', '2', 'presiden', 'jokowi', 'presiden', 'prabowo', 'allah', 'indonesia', 'bantidakit']",instagram,2
+"['tuju', 'pake', 'banget', 'pakrencana', 'anak', 'sma', 'bln', 'november', 'bal', 'byrnya', '3jt']",instagram,0
+"['dukung', 'pdip']",instagram,3
+"['ubah', 'didik', 'gratis']",instagram,1
+"['carakyat', 'indonesia', 'sukses', 'erakyat', 'indonesiack']",instagram,0
+"['fullnya', 'liat', 'dmna']",instagram,0
+"['saran', 'nama', 'lembaga', 'laper', 'lembaga', 'baik', 'gizi', 'masayaarakat']",instagram,2
+"['omong', 'bem', 'ui', 'benernya']",instagram,0
+"['assalamualaikum', 'teddy', 'semogaa', 'shat', 'selaluu', 'amiin']",instagram,2
+"['uanjay', 'gercep', 'gilir', 'uu', 'pro', 'rakayat']",instagram,0
+"['moga', 'sukses', 'prabowo', 'gibran']",instagram,2
+"['rakayat', 'lantik', 'prabowo', 'gibran', 'mpr', 'bubar']",instagram,2
+"['carakyat', 'indonesia', 'duit', 'modal', 'congor', 'doang']",instagram,0
+"['moga', 'mandirakyat', 'indonesia', 'ambil', 'putus', 'pimpin', 'negerakyat', 'indonesia', 'cinta']",instagram,0
+"['tombol', 'sekokelah', 'gratis']",instagram,1
+"['amrakyat', 'indonesiak', 'ngemplang', 'pssajak', 'wes']",instagram,0
+"['stelan', 'jas', 'kyk', 'cocokenya', 'iming2', '26jt', 'beli', 'pajero']",instagram,1
+"['baznas', 'zakat', 'shodaqoh', 'begian', 'rakyat', 'indonesiama', 'manfaat', 'sudahh', 'agama', 'acta', 'rakyat', 'indonesia', 'mustahiq', 'pasti', 'program', 'baznas', 'dukung', 'rakyat', 'indonesiantah', 'kokek', 'gandeng', 'mbayarakyat', 'indonesia', 'rakyat', 'indonesiantah', 'aneh']",instagram,1
+"['wssajahnya', 'sssaja', 'ogah']",instagram,0
+"['suka', 'heran', 'sma', 'bilang', 'uang', 'uang', 'sayaa', 'krja', 'sayaa', 'tambang', 'timah', 'milik', 'mutidakin', 'santidakut', 'pautanyaa', 'sma', 'uang', 'titidakl', 'tambang', 'ntidaku', 'uang', 'uang', 'cuman', 'rebah', 'doang', 'rumah', 'atw', 'bisa', 'uang', 'dasna', 'darakyat', 'indonesia', 'uang', 'situ']",instagram,0
+"['plisssss', 'episod', 'malem', 'iniii', 'bnr', 'anak', 'magic5', 'butuh', 'sosoke', 'papahh', 'kandung', 'bawangg', 'bangettt', 'episod', 'malem', 'iniii']",instagram,0
+"['marakyat', 'indonesia', 'titidaklkan', 'partai', 'pdip']",instagram,3
+"['makasih', 'jokowi', 'sadar', 'modal', 'juang', 'sssaja', 'uang']",instagram,2
+"['kuasa', 'atur', 'atur', 'kuasa']",instagram,0
+"['senang', 'banget', 'liat', 'tampil', 'necis', 'abis', 'mib', 'black', 'jadi', 'jubir', 'presiden', 'prabowo']",instagram,2
+"['kasi', 'pimpin', 'didoain', 'buruk', 'rakayatanyaa', 'hidup', 'tenang']",instagram,0
+"['perencanaanujungnya', 'ambyar']",instagram,0
+"['tekan', 'tombol', 'bacooootttttttt']",instagram,0
+"['rakyat', 'indonesia', 'jabat', 'apa', 'yohanes', 'anies', 'edan', 'biar', 'gelandang', 'politik']",instagram,1
+"['gibran', 'tentu', 'menang', 'prabowo', 'wakil', 'gibran', 'kalah']",instagram,2
+"['sayang', 'naura', 'sma', 'adara', 'ketemu']",instagram,0
+"['assalamualaikum', 'prabowo', 'gibran', 'selbanget', 'siang', 'hadir', 'moga', 'hadir', 'postingan', 'baikbaik', 'sssaja']",instagram,2
+"['ayo', 'pk', 'anies', 'gabung', 'pks', 'sssaja']",instagram,1
+"['maung', 'dunia']",instagram,0
+"['power', 'netizen', 'indonesia', 'mantap', 'nyala', 'netizen', 'indonesia']",instagram,0
+"['sehat', 'keluargaa', 'anies']",instagram,1
+"['96', 'juta', 'paham', 'omong', 'giniansehat', 'umur', 'rg']",instagram,0
+"['prakyat', 'indonesiabadi', 'simpatisan', 'anies', 'sewssajarnya', 'pahlawan', 'ubah', 'masa']",instagram,1
+"['tanding', 'malam', 'mtidakmbarkan', 'pilih', 'presiden', 'fiks', 'debat']",instagram,0
+"['sikap', 'anies', 'sikap', 'hati2', 'obyektif', 'kembang', 'dar', 'ambisi', 'prakyat', 'indonesiabadi', 'kuasa', 'jabat', 'matang', 'sasar', 'penting', 'rakayat', 'bangsa']",instagram,1
+"['truck', 'selbanget']",instagram,0
+['best'],instagram,0
+['tuju'],instagram,0
+"['moga', 'sukses', 'aamiin']",instagram,0
+"['suka', 'anies', 'rektor', 'suka', 'dengar', 'pendapatanyaa', 'sayang', 'org2', 'makan', 'fitnah', 'buzzer', 'bersayaukur', 'seeprti', 'beliau', 'dinegerakyat', 'indonesia']",instagram,1
+"['doketer', 'jokowi', 'pasien', 'odgj']",instagram,2
+"['darakyat', 'indonesia', 'ragu', 'surya', 'paloh', 'cak', 'imin', 'emang', 'tau', 'malu', 'rakayat', 'dukung', 'dititidaklkan', '5', 'nasdem', 'pkb', 'nasib', 'p3']",instagram,1
+"['puji', 'nyarakyat', 'indonesias', 'paket', 'lentidakap', 'ukur', 'manusia', 'jmn', 'saat', 'wakanda', 'krakyat', 'indonesiasis', 'tokeokeh', 'panutan', 'omong', 'omong', 'gambar', 'keren', 'banget', 'lohawalnya', 'pikir', 'gambar', 'paruh', 'abah', 'anak2', 'indonesia']",instagram,0
+"['pimpin', 'rakyat', 'indonesiandukansemogaa', 'shat2', 'slalu', 'anies']",instagram,1
+"['uah', 'hina', 'rendah', 'background', 'ustadz', 'satu', 'berlatarbelakang', 'agama', 'diatidakp', 'paham', 'thdp', 'bahas', 'agama', 'menuaduh', 'potong', 'video', 'bukti']",instagram,0
+"['rakyat', 'indonesiantahan', 'sibuk', 'hidup', 'hedon', 'mikirakyat', 'indonesian', 'anies', 'rakyat', 'indonesia', 'tanggung', 'lgsg', 'allout', 'pikir', 'rakayat', 'butuh', 'kecil', 'hitidak', 'penting', 'mendikbud', 'silent', 'menaker', 'silent', 'duduk', 'kursi', 'rakyat', 'indonesiantahan', 'hebat', 'hebat', 'buatt', 'rakayat']",instagram,1
+['abah'],instagram,1
+"['br', 'pasang', 'sakinah', 'mawardah', 'warohmah']",instagram,0
+"['amazing', 'president']",instagram,0
+"['gubernur', 'aceh', 'ssaja', 'pliss', 'anis']",instagram,1
+"['suruh', 'rekam']",instagram,0
+"['ga', 'soke', 'ceramah', 'bawa', 'tauhid', 'ucapakan', 'natal', 'negara', 'toleransi', 'rakyat', 'indonesiaaki', 'curang', 'bukti', 'mending', 'baik', 'otak', 'ucap', 'tintidakah', 'soke', 'sutradara', 'sutradara', 'hidup', 'sendirakyat', 'indonesia', 'udahh', 'bener', 'tintidakah', 'inti', 'darakyat', 'indonesiapada', 'girakyat', 'indonesiang', 'opini', 'mending', 'introspeksi', 'rakyat', 'indonesia']",instagram,0
+"['sudahh', 'jalan', 'nyapendidikan', 'gratismalahhaddeuhh']",instagram,0
+"['uu', 'ampas', 'aset', 'ruu', 'kpk', 'rukuhandphone', 'uu', 'pro', 'rakayat', 'sampe', 'demo', 'brjilid2', 'revisi', 'ruu', 'serah', 'presiden']",instagram,0
+"['kelas', 'lupa', 'diasintidakan', 'bamgsanya', 'sendirakyat', 'indonesia', 'lindung', 'presiden', 'negara', 'dunia', 'dikawatirkan']",instagram,0
+"['semangat', 'ttidak']",instagram,0
+"['mamang', 'turun', 'tangan']",instagram,0
+"['cak', 'imin', 'sasar']",instagram,1
+"['keren', 'abah', '01', 'pilih']",instagram,1
+['pdip'],instagram,0
+"['shouldve', 'said', 'esjiaii', 'not', 'esgeie', 'ofc', 'people', 'get', 'confused']",instagram,0
+"['nyalahin', 'tapis', 'salah', 'inputorg', 'sistem', 'apl', 'errortapis', 'input', 'ssaja', 'suara', 'udh', 'masuk', 'pegimane', 'iturugi', 'dooonnk']",instagram,0
+"['nyupir', 'ora', 'sante', 'blas']",instagram,0
+"['hidup', 'jawara', 'betawi']",instagram,0
+"['bagus', 'udahh', 'sadar']",instagram,0
+"['aneh2', 'sederhana', 'sssaja', 'contoh', 'buntu', 'nama', 'ikan']",instagram,0
+"['moga', 'beliau', 'rakyat', 'indonesia']",instagram,0
+"['sukses', 'bu']",instagram,0
+"['bikin', 'semangat', 'lagu', 'sampe', 'ga', 'sabar', 'nunggu', '2024', 'pilih', 'amin']",instagram,1
+"['haru', 'banget', 'malam', 'kokek', 'tega', 'banget', 'anies', 'tega', 'pikir']",instagram,1
+"['mas', 'atidak2', 'aneh', 'opini', 'imin', 'bikin', '40', 'koketa', 'tara', 'jakartadia', 'ssaja', 'nolak', 'ikn', 'semenjak', 'wakil', 'anis', 'skarenag', 'bangun', '40', 'koketa', 'tara', 'jakarta', 'tempo', '5', 'ssaja']",instagram,2
+"['sehat', 'anies', 'hati', 'rakayat', 'cinta', 'ubah']",instagram,1
+"['anies', 'gubernur', 'baik', 'dki']",instagram,1
+"['amin', 'prubahan']",instagram,1
+"['love', 'keep', 'faith', 'spirakyat', 'indonesiat']",instagram,0
+"['jalan', 'yaman']",instagram,0
+"['tombol', 'muakk']",instagram,0
+"['ketawa', 'berjamaaah', 'yooke', 'uban']",instagram,0
+"['barakyat', 'indonesiasan', 'elu', 'bangg', 'muntidakin', 'oposisi', 'negerakyat', 'indonesia', 'iniberhubung', 'partai', 'sanggup', 'puasakita', 'ssaja', 'rakayat', 'oposisimenyala', 'abantidaku']",instagram,0
+"['batidak', 'ganjar', 'pranowo', 'mahfud']",instagram,3
+"['sekeluargaa', 'batidak', 'darakyat', 'indonesia', '16', 'kibulin']",instagram,0
+"['aroke', 'sudahh', 'hebat', 'bunuh', 'empu', 'gandarakyat', 'indonesiaing', 'rakyat', 'indonesias', 'cipta', 'aroke', 'mati', 'rakyat', 'indonesias', 'kau', 'pikir', 'lurah', 'diam', 'sssaja', 'ambisi', 'besar', 'politik', 'teman', 'sssaja', 'percaya']",instagram,0
+"['tenang', 'ssaja', 'anak', 'wan', 'abud', 'janji', 'surga']",instagram,0
+"['kasi', 'bapakgajix', 'tahan', 'sudahh', '6', 'thntolong', 'presiden']",instagram,0
+"['lyly', 'canti']",instagram,0
+"['jabat', 'becusbikin', 'atidakran', 'ssaja', 'lebih', 'bayar']",instagram,0
+"['salfoke', 'beneran', 'rada', 'mirakyat', 'indonesiap', 'muka']",instagram,0
+"['send', 'dm']",instagram,0
+"['sengssaja', 'gembel', 'bang']",instagram,0
+"['maaf', 'dalam', 'dalam', 'kata', 'wasalam', 'alan', 'walker']",instagram,0
+"['beda', 'akidah', 'sikap', 'sportivitas', 'beliau', 'ambil', 'sikap', 'sperti', 'rakyat', 'indonesia', 'sikap', 'teladan', 'dukung', 'tenang', 'belssajar', 'darakyat', 'indonesia', '2019', 'kokerban', 'ga', 'hasil', 'rakyat', 'indonesiaman', 'kita', 'tau', 'alloh', 'swt', 'hikmah', 'jujur', 'kecewaa', 'sedih', 'kesal', 'anies', 'tenang', 'tenang', 'rasa', 'pendukungny']",instagram,1
+"['apa', 'mahfud', 'suara', 'ganjar', 'bawah', '20', 'aneh', 'kalah', 'rakyat', 'indonesiasik']",instagram,3
+"['maksudahnya', 'prof16', 'menang', 'lawan', '58']",instagram,3
+"['dikit2', 'hahahaha']",instagram,0
+"['lucu', 'kalah', 'bilang', 'curang', 'lapang', 'sssaja', 'tapis', 'kalah', '01', 'dan03']",instagram,1
+"['psikokelog', 'pakar', 'mimik', 'wssajah', 'bantu', 'baca', 'belah', 'darakyat', 'indonesia', 'pks', 'kira2', 'darakyat', 'indonesia', 'gambar', 'mimik', 'wssajah', 'cermin', 'wssajahwssajah', 'menang', 'jujur', 'baper', 'pandang', 'ahli']",instagram,0
+"['prof', 'allah', 'tau']",instagram,3
+"['iya', 'saksi', 'takut', 'denger', 'bukti', 'kokentidakrakyat', 'indonesiat', 'takut', 'saksi', 'takut', 'penjara']",instagram,0
+"['pasu', 'joget2', 'kasih', 'rakyat', 'indonesiata', 'percaya', 'padahl', 'benar']",instagram,2
+"['cocoke', 'mahkamah', 'agung', 'dosen', 'sssaja', 'prof']",instagram,3
+"['gamau', 'potong', 'hakim', 'takut', 'lupa', 'brakyat', 'indonesiaef', 'wkwkwkwk', 'pet', 'gmna']",instagram,2
+"['tim', 'liat', 'poster', 'sbelum', 'nonton']",instagram,0
+"['maaf', 'opini', 'nyata', 'didik', 'sudahh', 'mengssajar', 'institusi', 'resmi', 'rela', 'baca', 'hujat', 'gurutapi', 'video', 'salah', 'tatidakpan', 'salah', 'kaprah', 'melihatanyaa', 'objektif', 'hujat', 'guru', 'spesifik', 'bijak', 'paksa', 'studi', 'diatidakp', 'berat', 'tua', 'murakyat', 'indonesiad', 'bijak', 'sekokelah', 'ambil', 'patuh', 'bayar', 'topik', 'utama', 'hujat', 'tua', 'murakyat', 'indonesiad', 'guru', 'guna', 'sekokelah', 'dihilantidakan', 'video', 'inijasa', 'guru', 'didik', 'generasi', 'terus', 'bangsa', 'pisah', 'kacau', 'kelola', 'program', 'studi', 'sekokelah', 'hujat', 'paksa', 'jalan', 'program', 'studi', 'menghilantidakan', 'peran', 'guru', 'dunia', 'didik', 'sadarakyat', 'indonesia', 'berbedasaya', 'makalaum', 'video', 'reaksi', 'sakit', 'hati', 'hujat', 'bertubitubi', 'lepas', 'darakyat', 'indonesia', 'sakit', 'hati', 'rasa', 'didik', 'latih', 'nilai', 'objektif', 'mem', 'relevansinyacoba', 'kaji', 'ulang', 'fakta', 'paksa', 'studi', 'sekokelah', 'bukti', 'picu', 'muncul', 'hujatanhujatan', 'sakit', 'hati', 'tutup', 'fakta', 'lebar', 'topik', 'kemanamanatidak', 'tua', 'murakyat', 'indonesiad', 'sekokelah', 'tutup', 'tua', 'murod', 'profesi', 'guru', 'dihilantidakan', 'tuntut', 'stop', 'sistem', 'paksa', 'laksana', 'studi', 'lainlainsemoga', 'timbang', 'mudahhmudahhan', 'opini', 'tambah', 'sakit', 'hati', 'guru', 'duka']",instagram,0
+"['main', 'harakyat', 'indonesia', 'sssaja', '1x', 'bayantidakan', 'seharakyat', 'indonesia', '24', 'jam', 'ronde', 'keluar']",instagram,0
+['hora'],instagram,0
+"['kumpul', 'jelek', 'waras']",instagram,0
+"['maafitu', 'namax', 'pke', 'bj', 'telanjang']",instagram,0
+"['fokeus', 'jual', 'fokeus', 'mencarakyat', 'indonesia', 'member', 'kokecak']",instagram,0
+"['kmrn', 'bagi', 'jabat']",instagram,0
+"['ndak', 'jadi', 'oposisi', 'bubar', 'sssaja', 'rakyat', 'indonesiabet']",instagram,2
+"['residen', 'ku']",instagram,0
+['selbanget'],instagram,0
+"['wakil', 'presiden', 'keren']",instagram,0
+"['kokek', 'ngemeng', 'ssaja']",instagram,0
+"['ganteng', 'wapresku', 'gibran', 'sukses', 'jalan', 'tugas', 'panggil', 'wapres', 'rakyat', 'indonesia', 'sehat2']",instagram,2
+"['rakyat', 'indonesiama', 'kasih', 'bossemoga', 'indonesia', 'malaysia', 'jaga']",instagram,0
+['sehat'],instagram,0
+['mantap'],instagram,0
+"['aduh', 'jaman', 'rakyat', 'indonesiatanya', 'gampang', 'banget', 'ngebunuh', 'ngebunuh', 'ssaja', 'gampang', 'cuman', 'berucapjanji', 'manis', 'gampang', 'maaf', 'walk', 'talk']",instagram,0
+"['suksma', 'daging', 'babi', 'pakde']",instagram,2
+"['lupa', 'resleting', 'gemboke', 'biar', 'buka', 'paksa', 'emak', 'emak', 'indonesia']",instagram,0
+"['presiden', 'baik', 'ir', 'jokeoke', 'widodo']",instagram,2
+"['pelsajaran', 'anak', 'cucu', 'suka', 'jatuh', 'sakit', 'hatihati', 'baikokerang', 'doa', 'dengar', 'kabul', 'tuhanjadilah', 'menang', 'jatuh', 'rendah']",instagram,0
+"['semangat', 'mayor']",instagram,2
+"['malang', 'unggul', '02', 'merry']",instagram,2
+"['tertawa', 'rfli', 'harun', 'malu', 'maluin', 'timur', 'sejana', 'hukum']",instagram,0
+"['16bisa', 'ndak', 'nyinyir']",instagram,0
+"['amin', '1', 'insahallah', 'anies', 'presiden', 'indonesia', '20242029', 'aamin', 'moga', 'curang', 'culas', 'anies', 'presiden', 'aamin', 'aamiin', 'aamiin', 'robbalallamin']",instagram,1
+"['tumbit', 'sarakyat', 'indonesia', 'air', 'bersih', 'gimna']",instagram,0
+['amin'],instagram,1
+"['sipaling', 'hijau']",instagram,0
+"['asosiasi', 'abdul', 'abdul', 'internasionalabdus', 'shomad', 'abdul', 'wahid', 'abdul', 'kholik', 'abdul', 'muhaimin', 'iskandar', 'ketua']",instagram,1
+"['amin', 'no1']",instagram,1
+"['wes', 'wayahe', 'saiki', 'ubah', 'indonesia', 'ttap', 'solid', 'dkung', 'pilih', 'anies', 'muhaimin', '1', 'jarakyat', 'indonesia', 'amin']",instagram,3
+"['biar', 'qi']",instagram,0
+"['desak', 'anies', 'solo', 'tidakk']",instagram,1
+['rawan'],instagram,0
+"['ngerakyat', 'indonesia', 'gasskeun', 'amin', 'ubah']",instagram,0
+"['seru', 'banget']",instagram,0
+"['amin', 'rabbal', 'alamin']",instagram,1
+"['bismillah', 'juang', 'masayaarakat']",instagram,0
+"['pikir', 'waras', 'pilih', 'gama', 'rekam', 'jejak', 'prakyat', 'indonesiahatin', 'kokendisi', 'masayaarakat', 'masayaarakat', 'buai', 'politik', 'bansos', 'narasi', 'sesat', 'barakyat', 'indonesiasan', 'waras', 'kecil', 'hati', 'didik', 'politik', 'rakayat', 'infestasi', 'jantidaka', 'sejarah', 'bukti']",instagram,0
+"['alhamdulilah', 'sehat', 'sellu', 'muchfud', 'ganjar', 'berjuantidakan', 'adil', 'demokerasi', 'etika', 'moral', 'indonesia']",instagram,3
+"['trakyat', 'indonesiams']",instagram,0
+"['aamiin', 'allah', 'aamiin']",instagram,0
+"['batidak', 'kumpul', 'rawan', 'kokensisten', 'batidak', 'prof', 'hati', 'jiwa', 'rawan', 'ganjar', 'indonesiast']",instagram,3
+"['gibran', 'mengssajak']",instagram,2
+"['penasaran', 'org2', 'muja', 'muji', 'jokowi', 'sikap']",instagram,2
+"['sudahh', 'duga', 'kokek', 'pakkalau', 'lembaga', 'mahkamah', 'agung', 'rakyat', 'indonesiantimidasi', 'hukum', 'rakyat', 'indonesiamba', 'laku']",instagram,0
+"['darakyat', 'indonesia', 'pas', 'muncul', 'tiga', 'oenting', 'dirty', 'vote', 'ssaja', 'dh', 'tau', 'arah', 'mana', 'pas', 'diterusin', 'kliatan', 'takut', '02', 'menang', 'inti', 'tuju', 'menyintidakirkan', '02', 'udahhhh', '2', 'putar', 'pntg', 'lawan', 'agung', 'dh', 'tumbang', 'tenang', '2', 'calon', 'lagi2', 'narasi', 'diterusin', 'yaaahh', 'makin2', 'dah', 'rakayat', 'dh', 'tau', 'dirty', 'vote', 'ga', 'penting2', 'banget', 'sudahh', 'paham', 'tuju', 'darakyat', 'indonesia', 'ssaja', 'dh', 'darakyat', 'indonesia', 'kubu', '01', '03', 'baca', 'sekaliiii', 'kehawatiran']",instagram,3
+"['sehat', 'bugar', 'senang', 'bahagia', 'semangat']",instagram,0
+"['ramah', 'tamah', 'ceunah', 'bang']",instagram,0
+"['harga', 'rakyat', 'indonesia', 'jaga', 'vidio', 'luar', 'akal', 'sehat', 'anak', 'pungut', 'antidakatanyaa']",instagram,0
+"['ttidak', 'lurus', 'dibarakyat', 'indonesiasan', 'ganjar', 'mahfud', 'waras']",instagram,3
+"['suara', 'ganjar', 'tapis', 'ku', 'cuman', '7', 'suara', 'tapis', 'coba', 'sebutin', 'takut']",instagram,3
+"['tiap', 'tapis', '02', 'unggul', 'coba', 'legowo', 'rakyat', 'indonesiama', 'unggul', 'paslon', 'pilih', 'biar', 'damai', 'nkrakyat', 'indonesia']",instagram,2
+"['sendirakyat', 'indonesia', 'dalang']",instagram,0
+"['jujur', 'saking', 'les', 'jalan', 'butuh']",instagram,0
+"['emang', 'prabowo', 'atur', 'sprti', 'mukidi']",instagram,2
+"['nangguntidakekekenapa', 'blg', 'ethes', 'desain']",instagram,0
+"['kangen', 'beliau']",instagram,0
+"['sabar', 'pakokerang', 'jujur', 'berani', 'musuhnyapastinya', 'mayorakyat', 'indonesiatas', 'takut', 'pemimpinkarena', 'ganggu', 'lahan', 'kokerupsinyadan', 'minorakyat', 'indonesiatas', 'jujurbaikberani', 'dukung', 'orangyang', 'jujur', 'berani']",instagram,1
+"['indonesia', 'unggul', '03', 'ganjar', 'pranowo']",instagram,3
+['hadiiiirrrrr'],instagram,0
+"['harap', 'amin', 'presiden']",instagram,1
+"['heloooo', 'uki', 'atidakp', 'titik', 'cerah', 'anak', 'mudah', 'dunia', 'politik']",instagram,0
+"['sehatsukses', 'selaluu', 'ibnuwardani', 'skalauargagaspol', 'ganjar', 'mahfud', 'dukung', 'rakayat', 'bismillah', 'moga', 'gama', 'menang', 'menang', 'menang', 'mahfud', 'wakil', 'presidenpak', 'ganjar', 'presiden', 'rakyat', 'indonesia', '120242029', 'berkah', 'barokeah', 'amanahtetap', 'lahirbatintetap', 'merakayat', 'nkrakyat', 'indonesia', 'harga', 'mati', 'rukun', 'damai', 'indonesia', 'kumengahargai', 'beda', 'agama', 'rassuku', 'merdeka', 'merdeka', 'merdekaamiiin3x', 'yarobbalallamin']",instagram,3
+"['keren', 'alam', 'otw', 'ngikutin', 'jejak', 'bapak']",instagram,3
+"['investasi', 'kemarakyat', 'indonesianbanyak', 'selesai', 'berani', 'tabrak']",instagram,0
+"['jokowi', 'maaf', 'dukung', '02', 'pindah', 'ganjar', 'gama', 'kawal', 'pimpin', 'indonesia']",instagram,3
+['semangat'],instagram,0
+"['detik', 'rencana', 'lurah', 'rencana', 'milu', '2024']",instagram,0
+"['3', 'jarakyat', 'indonesia']",instagram,0
+"['anies', 'prabowo', 'tutor', 'kampanye', 'rakyat', 'indonesiaang', 'gemibra', 'ganjar']",instagram,3
+"['idola', '2', 'dua']",instagram,0
+"['sapa', 'nyakitin']",instagram,0
+"['sehat', 'nggeh', 'romo']",instagram,0
+"['beliau', 'diatidakp', 'sombong', 'antidakuh', 'sanepan', 'bilang', 'hina', 'sehat', 'ganjar', 'sabar', 'gusti', 'allah', 'mboten', 'sare', 'becik', 'titik', 'ala', 'tara', 'sapa', 'nandur', 'bakale', 'ngunaduh']",instagram,3
+"['ngelenserakyat', 'indonesian']",instagram,0
+"['pilih', 'presiden', 'setting', 'darakyat', 'indonesia', 'prosentase', 'perolehantidak', 'berubahkalau', 'belssajar', 'statistik', 'diagram', 'lintidakarandengan', 'opsi', '3', 'mudahhdengan', 'isi', 'prosentase']",instagram,0
+['bor'],instagram,0
+"['mantap', 'lanjuntukan', 'juang', 'tidak', 'benar', 'republik', 'indonesia', 'cinta']",instagram,0
+"['kalah', 'oke', 'pilih', 'presiden', 'skarang', 'rela', 'jilat']",instagram,0
+"['bahagia', 'sederhana', 'abah', 'senyum', 'sudahh', 'adem', 'bahagia', 'pimpin', 'adil', 'dunia', 'akhirat', 'insayaa', 'allah', 'aamiin', 'allah']",instagram,1
+"['ssajak', 'slepet', 'imin']",instagram,1
+"['3', 'tapis', 'deket', 'rumah', 'gua', '02', 'menanggua', 'bal', 'kandang', 'banteng']",instagram,2
+"['salah', 'nginput', 'salah', 'nginput', 'sesuai', 'tapis', 'muntidakin', 'usut', 'ketua']",instagram,0
+"['sesal', 'ku', 'kenapa', 'kemaren', 'pas', 'samping', 'mayor', 'tedy', 'pingsan']",instagram,0
+"['rakyat', 'indonesiabadi', 'kagum', 'paslon', 'kalah', 'milu', '2024', 'darakyat', 'indonesia', 'paslon', 'menang']",instagram,0
+"['nice', 'family']",instagram,0
+"['tokeen', 'habis', 'dikit', 'rakyat', 'indonesiasik']",instagram,0
+"['sehat', 'umur', 'dalamlindungan', 'alloh', 'subhana', 'wataala']",instagram,0
+"['thats', 'lit', 'brother']",instagram,0
+"['dirty', 'vote', 'fitnah']",instagram,0
+"['nikel', 'besar', 'dunia', 'sejahtera', 'masayaarakat', 'signifikan']",instagram,0
+['nomor'],instagram,0
+"['maling', 'mana']",instagram,0
+"['bismillah', '1', 'amin']",instagram,1
+"['darakyat', 'indonesia', 'pkntianak', 'teus', 'cek', 'mhn', 'lanjuntukan', 'usahanyatrakyat', 'indonesiamakasih']",instagram,0
+"['semangat', 'presiden']",instagram,0
+"['dkrtik', 'brrti', 'sayang']",instagram,0
+"['ikn', 'manfaat', 'rasa', 'balikpapan', 'kaltim']",instagram,0
+['anies'],instagram,1
+"['akal', 'sehat', 'rocky', 'saidi']",instagram,0
+"['moga', 'anies', 'istiqomah', 'juang', 'bela', 'rakayat', 'ubah']",instagram,1
+"['habis', 'pbb', 'undang', 'beliau', 'sklian', 'rakyat', 'indonesia', 'jabat', 'pbb', 'aamiin', 'allaah']",instagram,0
+"['izin', 'rakyat', 'indonesiadho', 'allah', 'swt', 'haji', 'prabowo', 'subianto', 'presiden', 'rakyat', 'indonesia', '20242029', 'aamiin']",instagram,2
+"['maju', 'kalah', 'malu']",instagram,2
+['muantap'],instagram,0
+"['cerdas', '2024anies']",instagram,1
+"['istrakyat', 'indonesia', 'dosen', 'pilih', 'pikir', 'baik', 'rakayat', 'pikir']",instagram,1
+"['semangat', 'juang', 'ubah', 'aamiin', 'aamiin', 'aamiin', 'rabbal', 'aalamin']",instagram,1
+"['awokeawoke', 'anak', 'abah', 'suka', 'makan', 'duit', 'haram', 'hasil', 'endors', 'judi']",instagram,1
+"['penilaiian', 'anis']",instagram,1
+"['wajib', 'pisahin', 'batoke', 'badan', 'mnusa', 'luknut']",instagram,0
+"['nikmat', 'hasil', 'proses', 'emang', 'kereeenn']",instagram,0
+"['vladimir', 'putin', 'sudahh', 'mengucapkn', 'selbanget', 'prabowo', 'ica', 'emang', 'presiden', 'putin', 'tidakk', 'rakyat', 'indonesiaset', 'mantan', 'kgb', 'sembarang', 'selbanget', 'presiden', 'prabowo', 'ica', 'kokear', 'kokear', 'curang', 'biar', 'putin', 'revisi', 'selbanget', 'presiden', 'anies', 'baswedan', 'presiden', 'rohingya', 'dagel', 'emang']",instagram,2
+['anies'],instagram,1
+"['ucap', 'rakyat', 'indonesiamakasihnya', 'kokek', 'sama', 'rakayat']",instagram,0
+"['aneh', 'semangat', 'mahfud']",instagram,0
+"['02', 'prabowo', 'gibran', 'yees']",instagram,2
+['kreatif'],instagram,0
+"['98', 'jilid', '2', 'ulang', 'bawa', 'mana', 'indonesia', 'cinta']",instagram,0
+"['ngaruhwong', 'ndeso', 'ganjar']",instagram,3
+"['keren', 'pks']",instagram,0
+"['james', 'bond']",instagram,0
+"['celah', 'pakai', 'dulang', 'suaradikira', 'krakyat', 'indonesiatisbulkecelek', 'fatal', 'itumigran', 'usut', 'tuntas']",instagram,0
+"['wkwkwkwkwkwkwk', 'ntidakak']",instagram,0
+"['psi', 'kaesang']",instagram,0
+"['dukung', 'hostanyaa']",instagram,0
+"['sudahh', 'dukung', '2kali', 'kalah', 'saatanyaa', 'pilih', 'anies', 'baswedan']",instagram,1
+"['chia', 'manis']",instagram,0
+"['cantik', 'bangeeet']",instagram,0
+"['gera', 'ubah', 'satu', 'adil', 'sejahtera', 'kebantidakitan', 'rakayat', 'bangsa', 'indonesia']",instagram,0
+"['chia', 'cynk']",instagram,0
+"['pak', 'anis']",instagram,1
+"['sangsi', 'perdata', 'kait', 'wanprestasi', 'calon', 'presiden', 'intidakar', 'janji']",instagram,0
+['semangat'],instagram,0
+['comel'],instagram,0
+"['selbanget', 'tv', 'one', 'sudahh', 'resmi', 'hd', '169']",instagram,0
+"['klau', 'rahasia', 'negera', 'umumahkamah', 'agung', 'rahasia', 'keluargaa', 'suka', 'duka', 'kasih', 'tau', 'teman', 'leluasa', 'menyeang']",instagram,0
+"['mamarakyat', 'indonesiaka', 'masak']",instagram,0
+"['bih', 'kokek', 'ayu', 'kihh']",instagram,0
+"['ganduul', 'thailan']",instagram,0
+"['full', 'video']",instagram,0
+"['bansosnya', 'elu', 'rajin', 'turun']",instagram,0
+"['takut', 'saing', 'nyerang']",instagram,0
+"['maaf', 'hening', 'bening']",instagram,0
+"['aniessekarang', 'prabowo', 'uno', 'emang', 'kalah', 'pamor', 'andamereka', 'mentidakhianati', 'sudahh', 'dukung', 'habis2an', 'pilih', 'presiden', 'kmaren', 'lupa', 'ulama']",instagram,2
+"['ganti', 'gib', 'jateng']",instagram,0
+"['satu', 'selesai', 'wali']",instagram,0
+"['menyalaaaa', 'abtidakuuhhb']",instagram,0
+"['moga', 'cucu', 'jokowi', 'sehat', 'sehat']",instagram,0
+['nice'],instagram,0
+"['udahh', 'kadung', 'ngiler', 'ngelihat', 'nominal', 'jht', 'rakayat', 'kumpul', 'ken', 'ngambil', 'cuan', 'darakyat', 'indonesia', 'duit', 'rakayat', 'pakai', 'akal2an', 'atur']",instagram,0
+"['sukarno', 'pernahsejauh', 'lahir', 'darakyat', 'indonesia', 'orang2', 'kait', 'beliau', 'sesudahhnya', 'ambisi', 'sukarno', 'ide', 'pikir', 'beda', 'generasi', 'haus', 'kuasa']",instagram,0
+"['ngemong', 'putune', 'patidakh', 'masker', 'mbah', 'mbah', 'rung', 'wayahe', 'njenengan', 'patidakh', 'iseh', 'sugeng']",instagram,0
+"['liat', 'ajundanya', 'sja', 'sangar', 'presidenya', 'berani', 'orang2', 'ganggu', 'indonesia']",instagram,0
+"['selbanget', 'bahagia', 'putra', 'sayang', 'janethessehatdan', 'suksesselamanya', 'janethes', 'gibran', 'rabuming', 'walikoketa', 'soloamin']",instagram,2
+"['istimewa', 'mewah', 'penampilantapi', 'tulus', 'hati', 'rakayat', 'super', 'istimewa', 'jokowirahayu']",instagram,2
+"['moga', 'keluargaa', 'bahagia']",instagram,0
+"['mentrakyat', 'indonesia']",instagram,0
+"['gelora', 'sihcuma', 'nanya']",instagram,0
+"['sehat', 'prespak', 'pur', 'indonesia', 'batidak']",instagram,0
+"['tuju', 'bu', 'rakyat', 'indonesia', 'baik', 'bangun', 'negerakyat', 'indonesia', 'maju', 'teknologi', 'menintidakat', 'makmur', 'rakayat']",instagram,0
+"['penting', 'rakayat', 'penting', 'prakyat', 'indonesiabadi', 'partai']",instagram,0
+"['pingin', 'hebat', 'presiden']",instagram,0
+"['wkwkwkwkklbh', 'lucu', 'darakyat', 'indonesiapada', 'lawak', 'untung', 'jadi', 'presiden']",instagram,0
+"['kenal', 'kenapa', 'pingin', 'kenal', 'sayang']",instagram,0
+"['tampil', 'rakyat', 'indonesia', 'pupr', 'natural', 'transparan', 'sehat', 'sukses']",instagram,0
+"['harap', 'dukung', 'rakabuming', 'moga', 'negara', 'maju', 'ekokenomi', 'rakayat', 'negara']",instagram,0
+"['sehat', 'ku']",instagram,0
+['masayaaallah'],instagram,0
+"['wau', 'rakyat', 'indonesia', 'keren', 'banget', 'james', 'bond', 'indonesia']",instagram,0
+"['anies', 'mahal', 'abad', 'anies', 'kalah', 'hormat']",instagram,2
+"['super', 'bu', 'srakyat', 'indonesia', 'mulyanisehat2', 'sekeluargaaterakyat', 'indonesiama', 'kasih', 'sudahh', 'buka', 'kuping', 'org2', 'soke', 'tahusaya', 'beban', 'hutang', 'negaramantap', 'bu']",instagram,0
+"['takut', 'bisnis', 'lancar', '02', 'menang']",instagram,2
+"['tua', 'batidak', 'anak', 'dapet', 'harga', 'darakyat', 'indonesia', 'presiden']",instagram,0
+"['alhamdullilah90', 'rakayat', 'cinta', 'jokowi']",instagram,0
+"['rakyat', 'indonesia', 'baik', 'jokowi']",instagram,0
+['setutuuuu'],instagram,0
+"['biar', 'pergi', 'menitidaklkan', 'juang', 'jalan', 'ubah']",instagram,1
+"['pimpin', 'baik']",instagram,0
+"['abah', 'sehat', 'sehat', 'sukses', 'trusss', 'amiin']",instagram,1
+"['masayaa', 'alloh', 'tabarakalloh', 'smoga', 'sehat', 'slalu', 'amin', 'aamiin', 'rabbal', 'alamiin']",instagram,1
+"['aamiinyaa', 'robb']",instagram,0
+"['hadarakyat', 'indonesia', 'calon', 'presiden', 'turun', 'calon', 'gubernur', 'pling', 'ssaja']",instagram,0
+"['ayo', 'berapa', 'benci', 'kata2', 'ucap', 'masayaarakat', 'oposisi', 'negara', 'atur', 'naik', 'harga2', 'ngikut', 'ssaja', 'protes', 'krakyat', 'indonesiatik', 'sehitidak', 'pejabat2', 'benah', 'atur', 'mudahh', 'masayaarakat', 'memuntidakinkan', 'dittidak', 'musayaawarah', 'mufakat', 'oposisi', 'jugan', 'musuh', 'musnah', 'fungsi', 'rem', 'negara', 'biar', 'bablas', 'negara', 'oposisi', 'rugi', 'rakayat', 'kita2', 'lembu', 'tusuk', 'hidung', 'ngikut', 'ssaja', 'kta', 'rakyat', 'indonesiantah']",instagram,0
+['masayaaallah'],instagram,0
+"['tanah', 'negara', 'ambil', 'tanam', 'bagus', 'azas', 'manfaat', 'bersih', 'darakyat', 'indonesia', 'hutan', 'belukaremang', 'larang']",instagram,0
+"['kagum', 'calon', 'presiden']",instagram,0
+"['maasayaa', 'allah', 'aniessaya', 'pihak', 'perubahanga', 'kalah', 'atas', 'menang', 'karna', 'curangbatidak', 'pilih', 'anies']",instagram,1
+"['shaa', 'allah', 'tabarokeallah', 'moga', 'jadi', 'ladang', 'pahala', 'abah', 'aamiin', 'yaarobbalaallaamiin']",instagram,0
+"['gaji', 'jabat', 'naik', 'hahahahahahahahahaha']",instagram,0
+['lahhhhhhhhh'],instagram,0
+"['ngotot', 'banget', 'tidakk', 'kalah']",instagram,0
+"['tutup', 'mini', 'market', 'alfa', 'indomaret', 'ngerusak', 'usaha', 'rakayat']",instagram,0
+"['kokecakkkk', 'jelassss', 'umur']",instagram,0
+"['keren', 'bang', 'wakil']",instagram,0
+"['pilih', 'amin', '1']",instagram,1
+"['moga', 'allah', 'memenantidakan', 'anies', 'baswedan', 'presiden', 'rakyat', 'indonesia', '2024', 'aamiin']",instagram,1
+"['mantap', 'saudahraku', 'ayo', 'biar', 'juang', 'sendirakyat', 'indonesia', 'biar', 'negara', 'maju']",instagram,0
+"['ken', 'kesana', 'indah', 'banget']",instagram,0
+"['amin', 'amin', 'aminnnnn']",instagram,2
+"['kreatif', 'video', 'suka', 'suka']",instagram,0
+"['kokeng', 'kalikokeng', '01', 'amin', 'coblos']",instagram,2
+"['01', 'amin', 'ttapi', 'baik', 'indonesia', 'depan', 'mudahh2an', 'anis', 'menang', 'putar', 'aamiin3x', 'rabbal', 'aalamiin']",instagram,1
+"['rakyat', 'indonesia', 'conto']",instagram,0
+"['bismillah', 'biidzinillah', 'amin', '1', 'putar', 'aamiin']",instagram,1
+"['nama', 'mason', 'bryan', 'kokelektor', 'uang', 'milik', 'barangbarang', 'perantidakoke', 'kokein', 'kuno', 'uang', 'kirakyat', 'indonesiami', 'nomor', 'whatsapp', 'bicara']",instagram,0
+['bismillaah'],instagram,0
+"['ahoke', 'pengaruh', 'rakayat', 'sekarangsoalnya', 'kerja', 'jelek']",instagram,0
+"['mahfud', 'emang']",instagram,3
+"['republikaco', 'neng', 'banget', 'rakyat', 'indonesiata2', 'gin']",instagram,0
+"['antidaket', 'tak', 'manipulasi', 'mahkamah', 'agung', 'presiden', 'sssaja', 'dimakjulkan', 'antidaket']",instagram,0
+"['ganjaaaar', 'ganjaaaaar']",instagram,3
+"['yaelahh', 'bang', 'jatidakr', 'bingung', 'tidakkk', 'beliau', 'kokensisten', 'kemlinthiinya', 'kokek']",instagram,0
+"['moga', 'ahy', 'sempat', 'rakyat', 'indonesia', '1']",instagram,0
+"['moga', 'sukses', 'pdip', 'partai', 'baik', 'nkrakyat', 'indonesia']",instagram,0
+"['pilih', 'calon', 'apa']",instagram,0
+"['karna', 'antidakuh', 'malu']",instagram,0
+"['banget', 'film', 'dewasa']",instagram,3
+"['rakyat', 'indonesiaus', 'nanya', 'emang', 'granger', 'pranowo', 'dissajak']",instagram,0
+"['masayaa', 'allah', 'kagum', 'banget', 'mayor', 'santun', 'banget']",instagram,0
+"['menang', 'kalah', 'rakyat', 'indonesiama', 'curang', 'usut', 'biar', 'depan']",instagram,0
+"['jatidakr', 'bantu', 'menang', 'pilkada', 'memenantidakan', 'rakyat', 'indonesia', 'sendirakyat', 'indonesia', 'ssaja', 'coba', 'pikir', 'akal', 'sehat', '16', 'jatidakr', 'banget']",instagram,0
+"['hebat', 'abang', 'ganjar', 'tunggu', 'kpk']",instagram,3
+"['sehat', 'prabowo', 'moga', 'allah', 'swt', 'rakyat', 'indonesia', 'berkah', 'umur']",instagram,2
+"['salah', 'politis', 'idola', 'pdip']",instagram,0
+"['sudahh', 'cuci', 'otak', 'kanjeng', 'mami']",instagram,0
+"['kokementar', 'ganjar', 'sudahh', 'realistis', 'bijak', 'diam', 'introspeksi', 'rakayat', 'pilih']",instagram,3
+"['semangat', 'kuat', 'satu', 'danbersama']",instagram,0
+"['dukung', 'ganjar', 'selaluu']",instagram,3
+"['mahfud', 'sudahh', 'setel', 'pabrakyat', 'indonesiak']",instagram,0
+"['duuh', 'mahfud', 'hati', 'lebar', 'banget', '2x', 'prank', 'jabat', 'wapres']",instagram,0
+"['ketemu', 'boss', 'ga', 'gbk', 'bang']",instagram,0
+"['ganjar', 'kuat', 'oposan', 'sekjen', 'partai', 'pdip', 'ngelantidakahin', 'mbak', 'puan']",instagram,3
+"['ken', 'kuasa', 'terosssss']",instagram,0
+"['bedeh', 'mannir']",instagram,2
+"['menyelbangetkan', 'muka', 'putra', 'mahkoketa']",instagram,2
+"['sudahhlah', 'jugan', 'kokemen']",instagram,0
+"['dukung', 'anies', 'bayar', 'dateng', 'ndarakyat', 'indonesia', 'pake', 'hati', 'nurani', 'ubah', 'serang', 'banten', 'kemarakyat', 'indonesian', 'laut', 'manusia', 'dukung', 'abah', 'jadi', 'presiden']",instagram,1
+"['mudah', 'dewasatua', 'kaya', 'bocahklaw', 'kalah', 'suka', 'ga', 'rakyat', 'indonesiamabocahbocahsuara', 'bangtop']",instagram,0
+"['fakta', 'pilih', 'prabowo', 'karna', 'minat', 'resah', 'pilih', 'sekian', 'kali', 'khawatir', 'bencana', 'tunggu', 'ganjar', '2030']",instagram,2
+"['green', 'inflation', 'sampah', 'plastik', 'daur', 'ulang', 'satu', 'lfp', 'muter', 'muter', 'jawbannya', 'all', 'prabowo', 'gibran']",instagram,2
+"['sumut', 'ubah', 'presiden', 'anies', 'baswedan', 'tawar', 'maksi', 'gratis']",X,1
+"['berita', 'inovatif', 'banget', 'anies', 'sendiri', 'kadang', 'daging', 'bingung', 'masak', 'dimasakin', 'sama', 'chef', 'titidakl', 'makan']",X,1
+"['bagus', 'prof', 'bagus', 'suara', 'anies', 'ahok', 'tolong', 'kasih', 'microfon']",X,1
+"['anies', 'covid', 'lawan', 'perintah', 'pusat', 'best', 'way', 'possible', 'pempusnya', 'anjing']",X,1
+"['mewek', 'pagi2', 'baca', 'masayaa', 'allah', 'abah', 'anies', 'presiden', 'presiden', 'rakyat', 'indonesia', 'aamiin']",X,1
+"['semangat', 'juang', 'ubah', 'samarinda', 'kaltim', 'dukung', 'park', 'ahn', 'nice', 'juang', 'ubah', 'coblos', 'nomor', '01', 'anies', 'muhaimin']",X,1
+"['tapi', 'pikir', 'ngerti', 'alesan', 'kenapa', 'pak', 'anies', 'jarang', 'pamer', 'islam', 'ngapain', 'pamer', 'rajin', 'sholat', 'kerja', 'pak', 'anies', 'udh', 'wajib', 'gubernur', 'tapi', 'efek', 'kbanyakn', 'perintah', 'tai', 'ngerti', 'kenapa', 'gin', 'diglorifikasi']",X,2
+"['gue', 'suka', 'ketawa', 'baca', 'statement', 'gue', 'maafin', 'anies', 'main', 'apa', 'sorry', 'yeeeeee']",X,1
+"['anies', 'pamer', 'kebaikan2nya', 'kita']",X,1
+"['hitung', 'menit', 'tiket', 'kampanye', 'akbar', 'anies', '01', 'ludes', 'jual', '3', 'juta', 'tiket', 'habis', 'jual', 'harap', 'rakyat', 'hadir', 'coleng', '02', 'borong', 'hadir', 'waspada', 'amin', 'waspada']",X,3
+"['komentar', 'tohok', 'anies', 'menteri', 'investasi', 'ngurusin', 'pilpres']",X,1
+['anies'],X,1
+"['anies', 'direshuffle', 'prabowo', 'pecat']",X,3
+"['anies', 'rugi', 'gagal', 'presiden', 'masayaarakat', 'rugi', 'banget', 'sempat', 'muncul', 'capres', 'macem', 'beliau', 'lantidaka', 'banget', 'trust']",X,1
+"['tidakk', 'luwes', 'kes', 'paksa', 'beda', 'banget', '01', 'anies', 'ikhlas', 'peluk', 'suasana', 'hati', 'welas', 'kasih', 'sehitidak', 'haru', 'banyak', 'gimmick', 'citra']",X,2
+"['david', 'revolusi', 'mental', 'program', 'jokowi', 'hasil', 'gagal', 'acara', 'desak', 'anies', 'semarang', 'abah', 'nampol']",X,1
+"['nambahin', 'cerita', 'anies', 'sakit', 'obat', 'rscm', 'kencana', 'ngantri', 'kaya', 'pasien', 'ga', 'bawa', 'ajudan', 'beda', 'banget', 'sama', 'jabat', 'jabat']",X,1
+"['aksi', 'hadir', 'presiden', 'paslon', '02', 'benar', 'alur', 'hebat', 'banget', 'anies', 'tahan', 'fitnah', '7', 'buat', 'oke', 'ahok', 'nahan', 'sampe', 'nunggu', 'bontidakar', 'menit']",X,3
+"['dengerin', 'duet', 'anies', 'ahok', 'hukum', 'koruptor']",X,1
+"['biau', 'melek', 'politik', 'milu', 'bodo', 'menang', 'makan', 'gue', 'melek', 'politik', 'dalam', 'cari', 'info', 'anies', 'banyak', 'nang', 'mulu', 'gue', 'gue', 'dukung', 'ugal', 'ugalan']",X,1
+"['level', 'jk', 'intimidasi', 'takut', 'anies', 'baswedan', 'komen', 'cerdas']",X,1
+"['betapa', 'rakyat', 'ubah', 'harap', 'tangan', 'anies', 'baswedan']",X,1
+"['pas', 'beliau', 'ngelayat', 'jabat', 'kritik', 'anies', 'gubernur', 'pas', 'ngelayat', 'anies', 'cerita', 'baikbaik', 'almarhum']",X,2
+"['trauma', 'jadi', 'bawa', 'psikolog', 'anies', 'ga', 'sorot', 'media']",X,1
+"['curang', 'pilpres', 'harap', 'gugat', 'curang', 'bawa', 'mk', 'mk', 'paman', 'hakim', 'tapin', 'anies', 'selesai', 'curang', 'duga', 'gugat', 'curang', 'bawa', 'mk', 'capres', '02', '03', 'menang', '01', 'selamat', 'titidakl', '2019']",X,3
+"['jadi', 'bawaslu', '2019', 'anies', 'mandi', 'jenazah', 'korban', 'nama', 'adam', 'pas', 'jenazah', 'harun', 'rasayaid', 'anies', 'gabisa', 'beliau', 'diam2', 'kerah', 'camat', 'walikota', 'bantu', 'keluarga', 'korban', 'anies', 'rumah', 'alm', 'harun', 'pagi', 'pagi', 'subuh', 'adek', 'harun']",X,3
+"['anies', 'bikin', 'semangat']",X,1
+"['sosok', 'anies', 'perfect', 'serba', 'serba', 'tau', 'celah', 'academy', 'sadar', 'manusia', 'sempurna', 'kurang']",X,1
+"['debat', 'pad', 'anyadar', 'fenomena', 'temanteman', 'anakanak', 'kasihan', 'ikut', 'desak', 'anies', 'komenkomen', 'tiktok', 'ubah']",X,1
+"['02', 'hijrah', 'anies']",X,3
+"['hati', 'abah', 'abah', 'culik', 'allah', 'gilir', 'abah', 'anies', 'culik', 'rengasdentidaklok']",X,1
+"['anies', 'el', 'presidente', '2024', 'anies', 'baswedan', 'indonesia', 'butuh', 'anies']",X,3
+"['abah', 'anies', 'cak', 'imin', 'ssssaja', 'belssssajar', 'debat', '2', 'sukses']",X,1
+"['tau', 'gue', 'ketemu', 'pas', 'anies', 'solo', 'gibran', 'cmiiw']",X,3
+"['6', 'menit', 'rekam', 'jejak', 'mantan', 'gubernur', 'dki', 'jakarta', 'anies', 'baswedan', 'muntidakin', 'lupa', 'ketua', 'bem', 'trisakti', 'tebuireng', 'malam']",X,1
+"['tolong', 'ulang', 'anies']",X,1
+"['nelayan', 'gabisa', 'suara', 'suara', 'nelayan', 'nyaleg', 'acuh', 'ssssaja', 'pas', 'pak', 'anies', 'dateng', 'kota', 'gausah', 'sosoan', 'suara']",X,1
+"['anies', 'sama', 'ahok', 'duet', 'nyanyi', 'kira2', 'tuli', 'nada', 'nyanyi', 'tempo', 'bayanginnya', 'ssssaja', 'udh', 'lucu']",X,1
+"['anies', 'bener2', 'terap', 'peribahasa', 'anjing', 'gonggong', 'kafilah', 'biarin', 'fitnah', 'beliau', 'ssssaja', 'fitnah', 'bantah', 'omong', 'kaya', 'interview', 'sandiaga', 'uno', 'prof', 'mahfud', 'ahok']",X,1
+"['ngeri', 'gua', 'fitnah', 'anies', 'mulu', 'akhirat', 'gimane']",X,1
+"['kasi', 'anies', 'tumbal', 'orangorang', 'jahat', 'ngatain', 'politik', 'identitas', 'enihh', 'bukti', 'ga', 'libat', 'gamblang']",X,1
+"['haikal', '02', 'maruf', 'amin', 'wapresnya', 'jkw', 'skrgnya', 'jadi', 'karenaa', 'alas', 'label', 'politik', 'identitas', 'karenaa', '212', 'sedantidakan', 'anies', 'kesana']",X,3
+"['gin', 'goreng', 'buzzer', 'anies', 'pakai', 'ayat', 'mayat', 'narik', 'simpati', 'benci', 'baik', 'ssssaja', 'jelek']",X,1
+"['tunggu', 'anies', 'politik', 'agama']",X,1
+"['anies', 'bikin', 'konsul', 'pakai', 'data', 'bangun', 'taman', 'beliau', 'kolaborasi', 'masayaarakat', 'ahli', 'swasta', 'pemprov', 'libat', 'dengar', 'kira2', 'sepakat', 'jadi', 'nilai', 'tara', 'adil']",X,1
+"['rakyat', 'indonesia', 'anies', 'muhaimin', 'amin', 'paslon', '01', 'menang', 'putar']",X,3
+"['ogah', 'gue', 'pilih', 'anies', 'baswedan', 'sssssaja']",X,1
+"['gaya', 'anies', 'saksi', 'dikuatin', 'menang', 'baca', 'doang', 'ngopi', 'minimal', 'nyemil', 'jagung', 'food', 'estate']",X,1
+"['anies', 'ri', '1', 'ane', 'bonus', 'berkah', 'hapus', 'tuduh', 'radikal', 'politik', 'identitas', '57', 'warga', 'jakarta', 'pilih', 'anies', 'utama', 'anies', 'menang', 'tampil', 'bawa', 'ubah', 'demokrasi']",X,1
+"['gue', 'pny', 'persepsi', 'gmn2', 'anies', 'apresiasi', 'cinta', 'anies', 'bu', 'fery', 'alami', 'turun', 'dengar', 'hearing', 'aid', 'user', 'maybe', 'anies', 'beneran', 'presiden', 'bu', 'fery', 'negara', 'disabilitas', 'representation', 'matters']",X,3
+"['kasi', 'dasar', 'judul', 'berita', 'banyak2', 'researxh', 'sumber', 'sama', 'anies', 'bbrp', 'klarif', 'belah', 'mnt', 'klarif', 'gapernah', 'respon']",X,1
+"['pimpin', 'sederhana', 'kaya']",X,0
+"['abah', 'anies', 'denger', 'suara', 'rakyat', 'rakyat', 'denger', 'suara', 'abah', 'anies']",X,1
+"['rumput', 'baik2', 'sesuai', 'soec', 'internasional', 'ganti', 'gara2', 'malu', 'anies', 'tahu', 'belang']",X,1
+"['kasiannnn', 'yaudah', 'kasih', 'suara', 'anies', 'suara', 'beliau', 'banget']",X,1
+"['petisi', 'anies', 'larang', 'nyanyi', 'yh']",X,1
+"['anies', 'ga', 'ngide', 'janji', 'masayaarakat', 'kontrak', 'poin', 'anies', 'realisasi', 'kawasan', 'bangun', 'kawasan', 'hitung', 'legal', 'sesuai', 'ktapi', 'biar', 'urus', 'hak', 'layan']",X,2
+"['pilih', 'anies', 'muhaimin', 'sepak', 'bola', 'sssssaja', 'maju', 'lini', 'kehidupanolah', 'raga', 'didik', 'sehat', 'budayaampseni', 'aman', 'pariwisata', 'tata', 'kota', 'tata', 'desa', 'maju', 'ubah', 'makmur', 'adil', 'rakyat', 'indonesia']",X,1
+"['usia', 'chronically', 'online', 'medsos', 'tiktok', 'ig', 'dapet', 'framing', 'buruk', 'anies', 'ride', 'wave', 'mayoritas', '2', 'medsos', 'mayoritas', 'dukung', '02', 'aneh', 'buta', 'fakta', 'lintas', 'usia']",X,3
+"['kalimat', 'anies', 'presiden', 'lombok']",X,1
+"['kayak', 'karna', 'anies', 'elu', 'ssssaja', 'ekhm', 'tarik']",X,1
+"['anies', 'sumbang', 'maaf']",X,1
+"['kampanye', 'keren', 'emang', '01', 'desak', 'anies', '03', 'tabrak', 'prof', '02', 'desak', 'paman', 'tabrak', 'etika']",X,3
+"['hal', 'pilih', 'pasang', 'hidup', 'prof', 'bebet', 'bobot', 'anies', 'karna', 'gada', 'sembunyiin', 'prof', 'tk', 'sd', 'smp', 'sma', 'kuliah', 'gada', 'palsu']",X,1
+"['wuih', 'putar', 'ke2', 'saksi', 'ahok', 'anies', 'gandeng', 'tangan', 'lawan', 'dinasti', 'jkw', 'usak', 'demokrasi']",X,1
+"['alergi', 'anies', 'debat', 'suami', 'pilih', 'beda', 'suami', 'blg', 'kmu', 'ga', 'tau', 'timsesnya', 'anies', 'tom', 'lembong', 'coba', 'cari', 'cari', 'tau', 'situ', 'rasional', 'wlpun', 'mas', 'penasaran', 'jawab', 'ahok']",X,2
+"['ide', 'hukum', 'koruptor', 'dinyanyiin', 'live', 'anies', 'ahok', 'minggu', 'penuh']",X,1
+"['survei', 'populi', 'center', 'prabowogibran', '52', '5', 'persen', 'aniesmuhaimin', '22', '1', 'persen', 'ganjarmahfud', '16', '9', 'persen', 'klik', 'link', 'baca']",X,2
+"['tuju', 'bang', 'plis', 'titip', 'pesan', 'anies', 'undang', 'berta', 'olah', 'vokal', 'jaga2', 'sewaktu2', 'beliau', 'suruh', 'nyanyi', 'indosiar', 'malam', 'dukung', 'protes', 'suara', 'giant', 'doraemon']",X,1
+"['anies', 'bilang', 'guna', 'beli', 'tiket', 'kampanye', 'amin', 'jis']",X,2
+"['rill', 'liat', 'postingan', 'tiktok', 'anies', 'nyanyi', 'maap', 'suara', 'pas', 'nyanyi', 'ssssaja']",X,1
+"['bingung', 'tim', 'anies', 'tes', 'pas', 'beliau', 'nyanyi', 'kekekekekenapa', 'diizinin', 'tarik', 'suara', 'setidakknya', 'suara', 'tarik', 'dorong', 'audiens', 'studio']",X,1
+"['adakalanya', 'pisah', 'mic', 'bahaya', 'dilanjuntukan', 'kek', 'butuh', 'puan', 'matiin', 'mic', 'anies']",X,1
+"['anies', 'sebab', 'ahok', 'penjara', 'bawabawa', 'politik', 'identitas']",X,1
+"['fitnah', 'ditudintidakan', 'pak', 'anies', 'banget', 'politis', 'agama', 'intoleran', 'kerja', 'omon', 'omon', 'doang', 'beliau', 'diam', 'ga', 'sibuk', 'klarifikasi', 'percaya', 'untidakapan', 'truth', 'reveal', 'itself', 'salut', 'banget', 'anies']",X,2
+"['survei', 'populi', 'center', 'prabowogibran', '52', '5', 'aniesmuhaimin', '22', '1', 'ganjarmahfud', '16', '9', 'ambless']",X,2
+"['anies', 'nyanyi', 'musik', 'sby', 'juara', 'bikin', 'album', 'beliau']",X,1
+"['alam', 'suara', 'bangett', 'harmonization', 'end', 'seger', 'banget', 'dengernya', 'abis', 'liat', 'video', 'anies', 'sama', 'ahok', 'nyanyi']",X,1
+"['kalang', 'guru', 'nolak', 'anies', 'guru', 'vokal']",X,1
+"['denger', 'denger', 'ganjar', 'ngisi', 'acara', 'anies', 'jis', 'guest', 'starnya']",X,3
+"['bagus', 'ganjar', 'nyanyi', 'prabowo', 'joget', 'anies', 'sibuk', 'presiden']",X,3
+"['war', 'tiket', 'kampanye', 'akbar', 'aniesmuhaimin', 'jis', 'timnas', 'amin', 'pakai', 'sistem', 'cepat']",X,1
+"['gue', 'ngeuh', 'anies', 'dateng', '212', 'googling2', 'dateng', 'reuni', 'itu', 'gubernur', 'tuan', 'rumah']",X,1
+"['bayar', 'dukung', 'amin', 'bayar', 'cinta', 'anies']",X,2
+"['ntidakak', 'pas', 'hukum', 'koruptor', 'miskin', 'dengar', 'suara', 'anies', 'nyanyi', 'speaker2', 'ruang', 'penjara']",X,1
+"['lucu', 'pak', 'anies']",X,1
+"['gue', 'mikirin', 'gue', 'posisi', 'anies', 'koarkoar', 'ye', 'terima', 'fitnah', 'keji', 'casenya', 'cak', 'imin', 'tag', 'oknum', 'bikin', 'fitnah']",X,1
+"['dialog', 'guru', 'paud', 'banyuwangi', 'pokok', 'suara', 'sejahtera', 'guru', 'paud', 'kurikulum', 'bop', 'bantu', 'operasional', 'didik', 'terima', 'kasih', 'guru', 'paud', 'indonesia', 'insayaa', 'alloh', 'percaya', 'anies']",X,1
+"['saat', 'anies', 'jakarta', 'dilockdown', 'tolak', 'pusat']",X,1
+"['lumayan', 'banding', 'anies', 'jelek', 'banget']",X,1
+"['emang', 'anies', 'ganjar']",X,3
+"['adhie', 'massardi', 'republik', 'asai', 'oligarki', 'anies', 'baswedan', 'kalah']",X,1
+"['ahok', 'dengar', 'suara', 'anies', 'adu', 'merdu']",X,1
+"['teman', 'keras', 'bela', 'anies', 'tulis', 'bawah', 'kenal', 'anies', 'pilih', 'jawab']",X,2
+"['pura2', 'begok', 'semuapdhl', 'anies', 'konsep', 'trmasuk', 'lockdown', 'biar', 'recovery', 'covid', 'cpt', 'selesaiusulan', 'tolak', 'ganti2', 'istilah', 'ppkmwalhasil', 'covidnycovid', 'bancaan', 'korupsi', 'alkesamp', 'bansos', 'bisnis', 'pjbt', 'tes', 'pcr', 'vaksin', 'masker']",X,1
+"['anies', 'ahok', 'korban', 'mastermindnya', 'lurah', 'kambing', 'hitam', 'anies', 'korban', 'ahok', 'komedi']",X,2
+"['etidakk', 'bagi', 'tiket', 'elektronik', 'kampanye', 'akbar', 'jis', 'ssssaja', 'saksi', 'jadi', 'kemarin', 'mentidaku', 'dukung', '02', 'sengssssaja', 'borong', 'tiket', 'elektronik', 'desak', 'anies', 'teman2', 'ga', 'bagi', 'tiket', 'batidaknya', 'cerita', 'land']",X,3
+"['semesta', 'pihak', 'abah', 'anies', 'ssssaja', 'jalan', 'mudah', 'diframing', 'jelek', 'counter', 'abah']",X,1
+"['berat', 'anies', 'covid', 'bantu', 'pusat', 'denial', 'covid', 'indo', 'juang']",X,1
+"['warganet', 'menang', 'war', 'tiket', 'kampanye', 'akbar', 'aniesmuhaimin', 'jis']",X,0
+"['anies', 'kambing', 'hitam', 'prabowo', 'gerakin', 'ormas', '212', 'prabowo']",X,3
+"['pesan', 'abah', 'anies']",X,1
+"['anies', 'emang', 'lawan', 'ahok', 'pilgub', '2017', 'anies', 'musuh', 'ahok', 'pernyataan2', 'debat', 'pilgub', 'ahok', 'mulut', 'tssssajam', 'komentar', 'tssssajam', 'anies', 'situ', 'beda']",X,3
+"['udara', 'darat', 'resah', 'warga', 'kotagede', 'info', 'anies', 'menang', 'bansos', 'hapus', 'keroncong']",X,1
+"['akkkkkkkh', 'gue', 'ahokers', 'pilih', 'anies', 'sumpah', 'wawancara', 'baru', 'ahok', 'moga', 'sehat']",X,1
+"['politik', 'list', 'counter', 'dukung', '02', 'dibilangin', 'gibran', 'nepotisme', 'anies', 'ganjar', 'rebut', 'gibran', 'prabowo', 'pelatidakr', 'ham', 'disuruhisu', 'diantidakat', '5', 'jokowi', 'kampanye', 'ga', 'bukti', 'jokowi', 'ngomong', 'dukung', '02', 'pilih', '02', 'cont']",X,3
+"['plus', 'anies', 'tidakk', 'suka', 'pamer', 'minus', 'alhamdulilah', 'dikit', 'dikit', 'buka', 'kasih', 'testimoni']",X,1
+"['bagi', 'kompak', 'cerdas', 'cepat', 'abah', 'keliling', 'kota', 'indonesia', 'cak', 'imin', 'gerilya', 'kantontidakantong', 'nu', 'jateng', 'jatim', 'daerah', 'ceruk', 'nu', 'tentu', 'menang', 'inshaallah', 'amin', 'menang', 'putar']",X,1
+"['denger', 'cak', 'imin', 'ken', 'fedi', 'nuril', 'cek', 'kalender', 'takut', 'tibatiba', 'freaky', 'friday', 'edisi', 'politik', 'bayangin', 'ssssaja', 'cak', 'imin', 'main', 'film', 'fedi', 'politis', 'sutradara', 'dokumentasi', 'momen', 'lantidaka']",X,1
+"['titik', 'baca', 'tulis', 'cak', 'imin', 'kedengeran', 'suara', 'cak', 'imin', 'ngomong', 'telinga', 'akrab', 'cak']",X,1
+"['hari', 'kemarin', 'anies', 'dibully', 'dukung', 'garagara', 'testes', 'suara', 'nyanyi', 'cak', 'imin', 'dicengcengin', 'indonesia', 'raya', 'garagara', 'surat', '1991', 'sahabat', 'rustini', 'beneran', 'politik', 'riang', 'gembira']",X,1
+"['paslon', 'nomor', 'urut', '1', 'anies', 'baswedanmuhaimin', 'iskandar', 'cak', 'imin', 'dukung', 'kalang']",X,1
+"['singgung', 'karakter', 'cak', 'imin', 'timnas', 'amin', 'luhut', 'bakar', 'jenggot']",X,1
+"['cak', 'imin', 'menkeu', 'lulus', 'ponpes', 'hidup', 'etidakk']",X,1
+"['emang', 'bener', 'anies', 'sudut', 'kota', 'jogja', 'romantis', 'jogja', 'mnjadi', 'saksi', 'jalan', 'cinta', 'paslon', 'abah', 'anies', 'cak', 'imin', 'bener2', 'real', 'cinta', 'kampus', 'biru']",X,1
+"['kayak', 'ganjar', 'mahfud', 'koalisi', 'anies', 'cak', 'imin', 'mahfud', 'sampe', 'gin', 'anjir', 'gue', 'tau', 'bangett', 'gue', 'konspirasi', 'jangan2', 'mahfud', 'nyawapres', '03', 'lindung', 'anies']",X,1
+"['just', 'give', 'context', 'cak', 'imin', 'pmii', 'kultur', 'pmii', 'panggil', 'anggota', 'sahabat', 'curiga', 'jangan2', 'cak', 'imin', 'adl', 'tipe', 'senior', 'tebar', 'pesona', 'adik', 'antidakatan']",X,1
+"['anies', 'nada', 'cak', 'imin', 'tempo']",X,1
+"['tibatiba', 'bayang', 'cak', 'imin', 'nyanyi', 'lemon', 'lies']",X,1
+"['cak', 'imin', 'real', 'gemoy', 'beginning', 'belah', 'pura2', 'gemoy', 'ssssaja']",X,1
+"['cak', 'imin', 'bela', 'fedi', 'nuril', 'artis', 'lantidaka', 'berani', 'tolak', 'prabowo', 'subianto']",X,1
+"['cak', 'imin', 'ngomong', 'kaya', 'panas', 'mulut', 'aiueo', 'hehehehe', 'love', 'cak', 'imin']",X,1
+"['cak', 'imin', 'suruh', 'belssssajar', 'debat', 'anies', 'suruh', 'belssssajar', 'nyanyi']",X,1
+"['cak', 'imin', 'pas', 'denger', 'abah', 'nyanyi']",X,1
+"['cak', 'imin', 'biar', 'tau', 'intelektual', 'kirim', 'kado', 'buku', 'nulis', 'surat', 'pake', 'kertas', 'template', 'seminar', 'sampai', 'semiformal', 'humoris', 'lentidakap', 'strategi', 'cewe', 'suka', 'cerdas', 'humoris', 'gtu']",X,1
+"['ntidakak', 'cak', 'imin', 'gemoy', 'lahir']",X,1
+"['cak', 'imin']",X,1
+"['silinder', 'gue', 'nang', 'liat', 'tulis', 'cak', 'imin', 'lurus', 'seluruslurusnya', 'petidakris', 'garis', 'kertas']",X,1
+"['luar', 'konteks', 'cak', 'imin', 'emg', 'jaman', 'ketemu', 'lgsg', 'jodoh', 'gue', 'bokap', 'gue', 'liat', 'nyokap', 'lgsg', 'jodoh', 'jodoh', '5', 'tahun', 'ketemu']",X,2
+"['gemes', 'banget', 'sisi', 'bayang', 'betapa', 'powerfulnya', 'cak', 'imin', 'pas', 'jaman', 'aktivis', 'muda', 'idola', 'teman2']",X,1
+"['imin', '1991', 'trending', 'maaf', 'cak', 'ku', 'panggil', 'kau', 'sahabat']",X,1
+"['fedi', 'nuril', 'cak', 'imin', 'prof', 'mahfud', 'ahok', 'nontidakrong', 'lagu', 'favorit', 'creed', 'one', 'last', 'breath', 'hold', 'now', 'im', 'six', 'feet', 'edge', 'im', 'thinking', 'maybe', 'six', 'feet', 'aint', 'far', 'down', 'alias', 'tepi', 'jurang', 'najwa', 'shihab', 'ngasih', 'monolog']",X,1
+"['pulpen', 'cak', 'imin', 'pulpen', 'hotel', 'mungutin', 'pulpen', 'bawa', 'pulang', 'serta']",X,1
+"['mahasiswa', 'trisakti', 'sweeping', 'poster', 'poster', '02', 'turun', 'serta', 'bukti', 'curang', 'calon', 'diskualifikasi', 'deserve', 'worst', 'than', 'turun', 'baliho', 'ahok', 'abah', 'fedi', 'nuril', 'rengasdentidaklok', 'imin', '1991', 'cak', 'imin', 'anya']",X,1
+"['dil', '1991', 'cak', 'imin', '1991', 'ciee']",X,1
+"['sebenernya', 'bingung', 'inti', 'tulis', 'cak', 'imin', 'opo', 'wkwkwkw', 'lucuuuu']",X,1
+"['cak', 'imin', 'takut', 'dicepuin']",X,1
+"['butuh', 'abah', 'cak', 'imin', 'wujud', 'ubah']",X,1
+"['login', 'kemaren', 'bajer', 'cape2', 'gaslight', 'tau', 'ahok', 'masak', 'anies', 'nyanyi', 'cak', 'imin', '1991', 'terimakasih', 'semesta']",X,1
+"['salfok', 'cak', 'imin']",X,1
+"['cak', 'imin', 'ketua', 'pmii', 'yogyakarta', 'beliau', 'kirim', 'surat', 'biar', 'ga', 'tau', 'anggota', 'pmii', 'mayoritas', 'pesantren', 'gabisa', 'sembarang', 'ngobrol', 'intens', 'lawan', 'jenis', 'ga', 'hubung', 'giat', 'organisasi']",X,1
+"['dukung', '01', 'berani', 'bilang', 'jujur', 'jelek', 'jelek', 'nutup2in', 'sanasini', 'cak', 'imin', 'debat', 'jelek', 'ancam', 'direngasdentidaklokkan', 'anies', 'nyanyi', 'jelek', 'kritik', 'habis', 'demokrasi', 'beneran', 'hidup', 'gin']",X,1
+"['sahabat', 'anak', 'cak', 'imin', '2', 'halaman', 'ssaja', 'sahabat']",X,1
+"['bajer', 'ajuga', 'ape', 'aksi', 'tutup', 'cak', 'imin', '1991']",X,1
+"['kmaren', 'cak', 'imin', 'dibully', 'dukung', 'sndiriskrg', 'anies', 'anies', 'nyanyi', 'ga', 'bakatbakat', 'presiden', 'sssssajaa']",X,1
+"['cak', 'imin', 'nyanyi', 'kenapa', 'mangap']",X,1
+"['bantu', 'ramein', 'ssssaja', 'bang', 'kasi', 'sepi', 'cak', 'imin', 'bawa', 'gbk', 'anies', 'jis', 'sepi', 'awokwokwok']",X,1
+"['ahok', 'masak', 'ahok', 'biar', 'gubernur', 'metidakngu', 'pilih', 'jokowi', 'pilpres', '2019', 'putus', 'ahok', 'tahan', 'umay', 'abah', 'fedi', 'nuril', 'lahir', '2006', 'calo', 'imin', '1991', 'cak', 'imin']",X,3
+"['cak', 'imin', 'sibuk', 'ngetweet']",X,1
+"['cak', 'imin']",X,1
+"['kayak', 'cak', 'imin', 'pas', 'mahasiswa', 'ugm', 'tipikal', 'mahasiswa', 'suka', 'nyari', 'seminar', 'gratis', 'niat', 'utama', 'dapetin', 'souvenirnya']",X,1
+"['cak', 'imin', 'cuit', 'julid', 'helai', 'rambut', 'ganjar', 'ubah', 'putih']",X,3
+"['jogja', 'ktk', 'bu', 'rustini', 'spill', 'isi', 'surat', 'cak', 'imin']",X,1
+"['cak', 'imin']",X,1
+"['videotron', 'cpi', 'emang', 'centernya', 'makassar', 'cocok', 'banget', 'abah', 'cak', 'imin', 'disituu']",X,1
+"['ssssaja', 'nonton', 'film', 'atidak', 'laen', 'keren', 'beeuut', 'rekomendasi', 'rumah', 'hantu', 'rem', 'ga', 'rencana', 'ssssajak', 'bujuk', 'salah', 'capres', 'rumah', 'hantu', 'ssssaja', 'gilang']",X,0
+[],X,0
+"['tugas', 'partai', 'partai', 'taat', 'konstitusi', 'tugas', 'capres', 'ubah', 'total', 'tukar', 'baju', 'capres']",X,2
+"['capres', 'mu', 'suka', 'nonton', 'bokep', 'gue', 'teriakin', 'bokep', 'bokep', 'bawa', 'banner', '02', 'dukung']",X,2
+"['capres', 'ga', 'denger', 'suara', 'rakyat', 'rakyat', 'ga', 'denger', 'suara', 'capres']",X,1
+"['ssssaja', 'kemarin', 'puji', 'debat', 'capres', 'prabowo', 'bijaksana', 'kalem', 'maaf', 'setel', 'pabrik', 'hina', 'otak', 'kasi', 'buzzer', 'was', 'wes', 'wos', 'bain', 'diahadeuuh']",X,2
+"['salah', 'mana', 'ndak', 'tau', 'ndasmu', 'etik', 'keren', 'capres', 'gue', 'respect', 'nyali', 'pimpin', 'bangsa']",X,2
+"['beda', '01', 'capres', 'culik']",X,1
+"['tau', 'rakyat', 'sulit', 'dukung', 'capres', 'melanjuntukan', 'ssssaja', 'rugi']",X,2
+"['liat', 'capres', 'pake', 'baju', 'gila']",X,0
+"['bikin', 'quds', 'dukung', 'capres', 'shadow', 'diplomacy', 'israel', 'gelembung', 'sabun']",X,2
+"['mundur', 'jabat', 'kaya', 'mahfud', 'etidak', 'pilih', 'salah', 'capres', 'menhan', 'ga', 'muntidakin', 'fokus', 'ngerjain', 'dua2nya', 'rawan', 'konflik', 'penting', 'serius', 'basmi', 'kkn', 'minimal']",X,2
+"['bang', 'capres', 'gimik', 'gemoy', 'kalah', 'debat', 'gimik', 'terzolimi', 'debat', 'gimik', 'maaf', 'bilang', 'gentle', 'koar', 'koar', 'kubu', 'gimik']",X,2
+"['upaya', 'unguk', 'rubah', 'image', 'aktor', 'spesialis', 'selintidakuh', 'sssssaja', 'aktor', 'spesialis', 'capres', 'selintidakuh', 'aktor', 'selintidakuh', 'capres', 'debat', 'aktor', 'debat', 'capres', 'selintidakuh', 'aargh']",X,2
+"['beda', 'capres', 'raih', 'menang']",X,0
+"['megawati', 'ketua', 'pdip', 'ga', 'maksain', 'anak', 'jadi', 'capres', 'tau', 'ga', 'terima', 'sama', 'masaya', 'jokowi', 'ga', 'partai', 'maksain', 'anak', 'maju', 'jadi', 'cawapres', 'atur', 'dimainin', '1', 'mikir', 'jantidaka', 'partai', 'depan', '1', 'mikir', 'jantidaka', 'kuasa']",X,2
+"['yaudah', 'hak', 'milih', 'paslon', 'capres', 'cawapres', 'unggul', 'kurang', 'inti', 'tetep', 'rukun', 'ssssaja', 'beda', 'pilih']",X,0
+"['sempet', 'bilang', 'dukung', 'underage', 'tanya', 'ngapain', 'situ', 'anak', 'underage', 'ken', 'ngedukung', 'capres', 'idola']",X,2
+"['salah', 'unsur', 'dukung', 'capres', '01', 'sejarah', 'bubar', 'diskusi', 'buku', 'bakar', 'buku', 'sweeping', 'toko', 'buku']",X,1
+"['capres', 'tidakk', 'paham', 'nada', 'cawapres', 'tidakk', 'paham', 'tempo', 'padu', 'membagontidakan']",X,1
+"['moga', 'sssssaja', 'pragrib', 'menang', 'liat', 'lantik', 'capres']",X,2
+"['kekekekekenapa', 'tiap', 'kampanye', 'pasang', 'caprescawapres', 'nomor', 'urut', 'ganjarmahfud', 'ramai', 'rawan', 'bayar']",X,0
+"['paslon', '3', 'lentidakap', 'capres', 'cawapresnya', 'fals']",X,0
+"['capek', 'capek', 'sekolah', 'hukum', 'dukung', 'capres', 'pelatidakr', 'ham', 'cawapres', 'pelatidakr', 'konstitusi', 'malluuu']",X,2
+"['capres', 'ri', 'ganjar', 'pranowo', 'bangun', 'indonesia', 'adab', 'sehat', 'didik', 'budaya']",X,3
+"['beda', 'dukung', 'capres', 'tulus', 'bulus']",X,0
+"['6', 'caprescawapres', 'buruk', 'teori', 'generalisasi']",X,0
+"['ribut', 'logistik', 'dukung', 'capres', 'gbk', 'dukung', '03', 'jatah', 'quota', 'timses', 'apapunlah', 'beboro', 'duit', 'kenal', 'akun', 'akun', 'dukung', 'kenal', '1', '2', 'jssssajan', 'duit', 'beli', 'roko', 'duit', 'kecuali', 'solo', 'brantidakat', 'duite', 'ora']",X,3
+"['ijin', 'prof', 'pribadi', 'capres', 'rekam', 'jejak', 'ilmu', 'karya', 'konsisten', 'muda', 'kompeten', 'presiden', 'bukti', 'kuat', 'mental', 'hadap', 'hambatancaci', 'maki', 'jabat', 'dki', 'diantidakat', 'oposisi', 'rekam', 'jejak', 'karya']",X,3
+"['acara', 'tabrak', 'prof', 'capres', '03', 'naik', 'pssssajak', 'perintah', 'ganjarmahfud', 'janji', 'utang', 'dapat', 'negara', 'korupsi', 'dihilantidakan', 'turun', 'tidak', 'menkeu', 'sri', 'mulyani']",X,3
+"['acara', 'tabrak', 'prof', 'capres', '03', 'mahfud', 'naik', 'panjak', 'perintah', 'ganjarmahfud', 'janji', 'utang', 'dapat', 'negara', 'korupsi', 'dihilantidakan']",X,3
+"['03', 'gagal', 'capres', 'buka', 'distro', 'ikut', 'indonesian', 'idol', 'jual', 'kuota', 'suara', 'emg', 'bagus']",X,3
+"['pilpres', 'pintar2', 'mem', 'capres', 'jugan', 'sampe', 'salah', 'pilih']",X,0
+"['putri', 'kuasa', '300', 'guru', 'silat', 'jakarta', 'raya', 'salah', 'jantidakar', 'utama', '212', 'congor', 'aktivis2', 'doyan', 'lendir', 'gue', 'tempat', 'sejssssajar', 'capres', 'cawapres', 'gue', 'usung', 'gue', 'jubir', 'debu', 'hina', 'jokowi', 'sejssssajar']",X,2
+"['bingung', 'milu', 'milih', 'siapacoba', 'sharing', 'pilih', 'alas', 'kenapa', 'milih', 'capres']",X,0
+"['bom', 'ketemu', 'culik', 'capres']",X,2
+"['akibat', 'anak', 'presiden', 'maju', 'capres', 'jalur', 'paman', 'mk', 'lawan', 'arus', 'demokrasi', 'akal', 'waras']",X,2
+"['bismillahirrahmanirrahim', 'dukung', 'caprescawapres', 'nomor', '1', 'amin', 'ff', 'reputasi', 'ilmu', 'agama', 'pimpin', 'gg', 'paket', 'lentidakap', 'mimpin', 'sholat', 'khutbah', 'sholawatan', 'doa']",X,1
+"['anies', 'capres', 'omong', 'bolakbalik', 'konsisten', 'pimpin', 'pegang', 'ucap', 'pimpin', 'sssssaja', 'menclamencle', 'pertanggungjawabannya', 'rakyat']",X,1
+"['mahasiswa', 'protes', '4', 'tuntut', 'salah', '1', 'makzul', 'jokowi', '10', 'isu', 'perintah', 'mahasiswa', 'kebantidakitan', 'orba', 'kecewa', 'jokowi', 'lantar', 'bangun', 'politik', 'dinasti', 'dukung', 'salah', 'capres', 'cawapres', '2024']",X,3
+"['ganjar', 'pranowo', 'tengok', 'korban', 'banjir', 'bandang', 'desa', 'cintidakrong', 'purwodadi', 'grobogan', 'rabu', '722024', 'datang', 'capres', 'urut', '3', 'semringah', 'warga', 'musibah']",X,3
+"['biasa', 'tidur', 'dzikir', 'main', 'hape', 'liat', 'debat', 'capres']",X,0
+"['habis2nya', 'puji', 'puja', 'ps', 'hina', 'dina', 'abah', 'nikmir', 'batu', 'hadir', 'dbt', 'capres', '3', 'mrs', 'cuekin', 'diatidakp', 'teamses', '02yang', 'ngamuk', 'ujung', 'unfoll', 'akun', 'prabowo', 'rafi', 'ahmad', 'merintih2', 'tiktok']",X,1
+"['capres', 'hasil', 'surpeinya', 'capai', '180']",X,0
+"['satusatunya', 'capres', 'boikot', 'dukung', 'sndiri', 'suara', 'anies', 'emang', 'jelek', 'banget']",X,1
+"['cecunguk', 'bilang', 'tulus', 'maaf', 'capres', 'tabiat', 'bengis', 'bilang', 'tulus', 'pala', 'parabola']",X,2
+"['apa', '01', '03', 'dibully', 'lawan', 'santai', 'bae', 'dukung', 'udh', 'ngebully', 'cak', 'imin', 'bocil', 'mati', 'ganjar', 'el', 'chudai', 'petisi', 'larang', 'anies', 'nyanyi', 'capres', 'cawapres', 'jelekin']",X,3
+"['purwodadi', '07022024', 'hssssajatan', 'rakyat', 'ganjar', 'pranowo', 'dukung', 'bergotongroyong', 'bantu', 'kena', 'musibah', 'banjir', 'grobogan', 'politik', 'urus', 'manusia', 'capres', '03', 'milik', 'peka', 'sosial']",X,3
+"['nama', 'milu', 'adu', 'gagas', 'opini', 'paslonnya', 'dukung', 'neng', 'gausah', 'kampanye', 'debat', 'capres', 'cawapres', 'pasang', 'baliho', 'tau2', 'coblos', 'pake', 'feeling', 'pke', 'otak']",X,0
+"['bayangin', 'capres', 'dibuntidakam', 'cawapresnya', 'culik', 'rengasdentidaklok']",X,0
+"['pikir', 'keras', 'bilang', 'pengantidakatan', 'gibran', 'cawapres', 'jalur', 'mk', 'ubah', 'uu', 'milu', 'salah', 'rakyat', 'paksa', 'nelen', 'gila', 'perintah', 'maju', 'uda', 'adjust', 'uu', 'uda', 'jadi', 'cawapres', 'gin', 'bain', 'mati']",X,2
+"['sampean', 'ubah', 'td', 'prof', 'mahfud', 'cawapres', 'partai', 'benci', 'jokowi']",X,2
+"['turut', 'atur', 'debat', 'cawapres', 'cawapres']",X,0
+"['jokowi', 'makzul', 'mahasiswa', 'demo', 'istana', 'bakar', 'poster', 'caprescawapres']",X,2
+"['populer', 'ekbis', 'jokowi', 'duga', 'siap', 'tsunami', 'bansos', 'gibran', 'sah', 'cawapres', 'jokowi', 'sri', 'mulyani', 'blokir', 'apbn', 'dana', 'bansos', 'ikn']",X,3
+"['mahasiswa', 'kebantidakitan', 'orba', 'orasi', 'mahasiswa', 'sebut', 'mentidaku', 'kecewa', 'rezim', 'perintah', 'jokowi', 'lantar', 'bangun', 'politik', 'dinasti', 'dukung', 'salah', 'capres', 'cawapres', 'milu', '2024']",X,2
+"['kh', 'mustain', 'sayaafiie', 'tebuireng', 'jombang', 'andai', 'pakai', 'hati', 'nurani', 'muntidakin', 'mengantidakat', 'anak', 'ga', 'muntidakin', 'ubah', 'uu', 'mk', 'jokowi', 'coba', 'pake', 'hati', 'nurani', 'cawapres', 'khofifah']",X,2
+"['netralitas', 'bukti', 'integritas', 'netral', 'milu', 'bentuk', 'netralitas', 'dukung', 'dukung', 'calon', 'kontestan', 'politik', 'capres', 'cawapres', 'dpd', 'dpr', 'dprd', 'trisakti', 'enzo', 'chelsea', 'junaedi', 'ketua', 'bem', 'sterling', 'faisal', 'basri']",X,0
+"['nunjukkin', 'fedi', 'nuri', 'akal', 'sehat', 'pihak', 'situasi', 'bangsa', 'baikbaik', 'sssssaja', 'negara', 'demokrasi', 'cawapres', 'anak', 'presiden', 'jabat', 'ssssaja', 'bilang', 'demokrasi', 'jelas2', 'dinasti']",X,2
+"['kasihan', 'ssssaja', 'ambisi', 'harap', 'cawapres', 'apa', 'nu', 'bssssajakan']",X,2
+"['dukung', 'prabowogibran', 'melatidakr', 'etik', 'lumrah', 'duduk', 'etik', 'hukum', 'derssssajat', 'etik', 'hukum', 'gibran', 'lolos', 'cawapres', 'hasil', 'pelatidakran', 'etik', 'ketua', 'mk', 'ketua', 'kpu', 'parah']",X,3
+"['14', 'februari', 'pilih', 'cawapres', 'partai', 'anak', 'jokowi']",X,2
+"['ganjar', 'anies', 'ngerebutin', 'debat', 'hangat', 'prof', 'mahfud', 'gadang', 'jadi', 'cawapres', '0103']",X,3
+"['nambahin', 'pas', 'gus', 'imin', 'debat', 'cawapres', 'dukung', '01', 'ngeledekin', 'gilir', 'anak', 'haram', 'konstitusi', 'debat', 'banget', 'pas', 'debat', 'cawapres', 'dukung', '02', 'maksud', 'buzzer', '02', 'bain', 'sumber', 'ribut']",X,3
+"['acara', 'tabrak', 'prof', 'cawapres', '03', 'mahfud', 'naik', 'panjak', 'perintah', 'ganjarmahfud', 'janji', 'utang', 'dapat', 'negara', 'korupsi', 'dihilantidakan', 'turun', 'tidak', 'menkeu', 'sri', 'mulyani', 'menteri']",X,3
+"['ukur', 'cawapres', 'muda', 'bukti', 'uu', 'ssssaja', 'ubah', 'muda']",X,0
+"['generasi', 'muda', 'handal', 'komitmen', 'bangsa', 'ngaca', 'ssssaja', 'maju', 'cawapres', 'pake', 'putus', 'pelatidakran', 'etik']",X,0
+"['jokowi', 'suruh', 'ahok', 'turun', 'takut', 'tekan', 'ormas', 'radikal', 'biar', 'ahok', 'sel', 'mega', 'dukung', 'ahok', 'mega', 'bela', 'minoritas', 'mahfud', 'bubar', 'radikal', 'maruf', 'amin', 'fatwa', 'fitnah', 'ahok', 'nista', 'jkw', 'cawapres', 'jkw', 'cari', 'mukatakut', 'radikal', 'purnawirawan', 'jend', 'tni', 'dukung', 'ganjar']",X,3
+"['sidang', 'gugat', 'wanprestasi', 'cawapres', 'gibran', 'gelar', 'pn', 'solo']",X,2
+"['cawapres', 'ekspresi', 'wssssajahnya', 'anak', 'presiden', 'cawapres']",X,0
+"['partai', 'pdip', 'jugan', 'samain', 'gibran', 'tbtb', 'cawapres', 'ngerubah', 'atur', 'dongggg', 'beda', 'boooossss', 'ssssaja', 'ga', 'bedain']",X,2
+"['coba', 'dukung', 'maju', 'cawapres', 'gua', 'jamin', 'ntidak', 'mahasiswa', 'turun']",X,0
+"['01', 'cawapres', 'buzzer']",X,1
+"['hadits', 'pilih', 'hg', 'napsu', 'prmimpin', 'bapak', 'napsu', 'dinasty', 'latidakr', 'uu', 'nepotisme', 'kolusi', 'intervensi', 'uu', 'mk', 'anak', 'latidakr', 'etika', 'hukum', 'mk', 'kpu', 'smua', 'ga', 'malu', 'mancle', 'mencle', 'turun', 'penjara', 'cuti', 'batal', 'cawapres', 'ilegal']",X,0
+"['gibran', 'bawah', '40', 'gabisa', 'cawapres']",X,2
+"['mahfud', 'hadir', 'tabrak', 'prof', 'pos', 'bloc', 'calon', 'wakil', 'presiden', 'cawapres', 'nomor', 'urut', '3', 'hadir', 'diskusi', 'minggu', 'anak', 'muda', 'tajuk', 'tabrak', 'prof', 'pos', 'bloc', 'jakarta', 'pusat', 'rabu', '722024', 'datang', 'mahfud', 'lantas', 'sambut', 'hangat']",X,0
+"['ketua', 'mk', 'ketua', 'kpu', 'berani', 'pelatidakran', 'etika', 'berat', 'anak', 'presiden', 'maju', 'cawapres', 'takut', 'citacita', 'tinggi', 'generasi', 'muda', 'wakanda', 'anak', 'presiden']",X,0
+"['sadar', 'semenjak', 'kh', 'pilih', 'cawapres', 'sadar']",X,0
+"['aktor', 'intelektual', 'maju', 'samsul', 'cawapres', 'med']",X,0
+"['debut', 'ssssaja', 'ga', 'mahfud', 'ssssaja', 'pas', 'debat', 'cawapres', 'kemarin', 'sempet', 'encore', '03', 'juara', 'nyanyi']",X,3
+"['cawapres', '02', 'wujud', '3', 'periode', 'jkw', 'bentuk', 'gibran', 'pilih', 'ps', 'bagi', 'wenang', 'tugas', 'gibran', 'otomatis', 'jkw', 'ahok', 'jkw', 'beda', 'mahfud', 'pakat', 'urus', 'hukum']",X,3
+"['satu', 'purnawirawan', 'polri', 'kesiap', 'memenantidakan', 'capres', 'cawapres', '03', 'pilpres', '2024', 'ganjarmahfud', 'nilai', 'bukti', 'jiwa', 'nasionalisme']",X,3
+"['dukung', '01', 'ngancam', 'culik', 'rengasdentidaklok', 'beliau', 'nilai', 'reng', 'pas', 'debat', 'cawapres', 'milu', 'riang', 'gembira', 'banget', 'mata', 'dukung', 'amin']",X,2
+"['pelatidakran', 'etik', 'pelatidakran', 'hukum', 'kpu', 'terima', 'gibran', 'cawapres', 'melatidakr', 'hukum', 'putus', 'mk', 'laku', 'uu', 'milu', 'revisi', 'dpr', 'pakai', 'uu', 'cawapres', '02', 'batal', 'hukum']",X,3
+"['gasalah', 'isu', 'uas', 'cawapres', 'prabowo', 'counter', 'kh', 'ruf', 'amin', 'wapresnya', 'jokowi']",X,3
+"['tambang', 'ilegal', 'cabut', 'ssssaja', 'izin', 'simpel', 'kta', 'cawapres', 'ilegal']",X,0
+"['02', 'win', 'jokowi', 'mantan', 'presiden', 'cawapres', 'gibran', 'presiden', 'mutlak', 'lekat', 'hati', 'hati', 'salah', 'pilih', 'rugi', 'rakyat']",X,3
+"['iwan', 'fals', 'jaga', 'netralitas', 'kait', 'milu', '2024', 'iwan', 'fals', 'kait', 'paslon', 'caprescawapres', 'partai', 'politik', 'mana']",X,0
+"['cawapres', 'telek', 'telek', 'ono', 'model', 'ngono', 'iku']",X,0
+"['tahan', 'suara', 'grassroot', 'pilih', 'muslim', 'ahok', 'mesti', 'tahan', 'jatuh', 'vonis', 'penjara', 'biar', '2019', 'mulus', 'periode', 'kh', 'maruf', 'amin', 'sengssssaja', 'pilih', 'cawapres', 'biar', 'menang', 'kalang', 'pilih', 'muslim', 'konservatif']",X,1
+"['heboh', 'lucu', 'pas', 'mk', 'pelatidakran', 'kode', 'etik', 'berat', 'putus', 'umur', 'cawapres', 'ketua', 'kpu', 'pelatidakran', 'kode', 'etik', 'terima', 'calon', 'cawapres', 'gibran', 'mintidakem', 'negara', 'atur', 'hukum', 'negri', 'kerssssajaan', 'sehat', 'dikit']",X,2
+"['tunda', 'jadi', 'cawapres', 'milu', '2019', 'prof', 'resmi', 'dipasantidakan', 'juang', 'memenantidakan', 'pilpres', '2024']",X,0
+"['capres', 'halang', 'nyanyi', 'ruang', 'publik', 'cawapres', 'culik', 'rengasdentidaklok', 'blunder', 'selamat', '01', 'aneh']",X,1
+"['yoi', 'liat', 'cawapres', 'hadiah', 'performnya', 'pas', 'debat']",X,0
+"['addressing', 'erick', 'tohir', 'arek', 'iku', 'teh', 'daamnn', 'goofy', 'cawapres']",X,0
+"['mahasiwa', 'jokowi', 'terangterangan', 'dukung', 'salah', 'pasang', 'caprescawapres', 'mahasiswa', 'buat', 'cela']",X,2
+"['mikirnya', 'rakyat', 'sengssssaja', 'bikin', 'miskin', 'biar', 'anak', 'menang', 'cawapres', 'bapak', 'nyiapin', 'dana', 'bansos', 'pilpres', 'lintidakaran', 'setan']",X,0
+"['tunda', 'cawapres', 'milu', '2019', 'prof', 'resmi', 'dipasantidakan', 'juang', 'memenantidakan', 'pilpres', '2024']",X,0
+"['maju', 'cawapres', '2024', 'keluar', 'peser', 'uang', 'butuh', 'kampanye', 'salah', 'satu', 'apk', 'gotong', 'royong', 'bantu', 'rawan']",X,0
+"['cawapres', 'nomor', 'urut', 'muhaimin', 'iskandar', 'gus', 'imin', 'semangat', 'ubah', 'jaga', 'tapis', 'jaga', 'amin', 'banyuwangi', 'jawa', 'timur', 'download', 'app', 'store', 'play', 'store']",X,1
+"['nyata', 'sikap', 'pesantren', 'tarik', 'pesantren', 'tebuireng', 'proses', 'dukung', 'dukung', 'caprescawapres']",X,0
+"['kemarin', 'kemarin', 'baliho', 'spanduk', 'ganjarmahfud', 'copot', 'aparat', 'rakyat', 'copot', 'baliho', 'spanduk', 'partai', 'koalisi', '02', 'tuhan', 'maha', 'adil']",X,2
+"['sowan', 'diam', 'gus', 'muwafiq', 'pesan', 'gus', 'muwafiq', 'ganjar', 'sederhana', 'rakyat', 'bikin', 'rakyat', 'trauma', 'sudahsudah']",X,3
+"['harga', 'apresiasi', 'guru', 'ngaji', 'bawa', 'program', 'insentif', 'guru', 'ngaji', 'tintidakat', 'nasional', 'manfaat', 'aspek', 'sejahtera', 'ganjar', 'mahfud', 'amanah']",X,3
+"['dukung', 'ganjar']",X,3
+"['jendral', '1', '1', 'buat', 'fakta', 'kekekekekenapa', 'jendral', 'menclamencle', 'patriot', 'sejati', 'ganjar', 'dissssajari', 'menclamencle', 'nyala', 'ketuaaa']",X,3
+"['manyalaa', 'abantidakuuhhh', 'btapi', 'bang', 'adi', 'duo', 'mesin', 'juang', 'ganjar', 'gaharr', 'menguntidakap', 'benar']",X,3
+"['janji', 'prabowo', 'ganjar', 'prihati', 'utami', 'coba', 'cermat', 'debat', 'kemarin', 'prabowo', 'bilanh', 'makan', 'siang', 'gratis', 'denger', 'sampe', 'bosen', 'muntidakin', 'tementemen', 'nonton', 'debat', 'kemarin', 'bosen', 'santidakin', 'prabowo', 'bilanh']",X,3
+"['jendral', 'fachrurrozi', 'konsisten', 'omong', 'nyajendral', 'fachrurozy', 'timnas', 'amin', 'hormat', 'jendral', 'fachrurozy', 'jendral', 'turun', 'mang', '3', 'jendral', 'disbut', 'ganjar', 'smua', 'jilat', 'ludah', 'mya']",X,3
+"['alam', 'ganjar', 'mentidaku', 'aneh', 'terjun', 'dunia', 'politik', 'sama', 'ayah', 'jabat', 'publik']",X,3
+"['ganjar', 'berani', 'banget', 'yahhh', '3', 'jendral', 'purnawirawan', 'masak', 'habis', 'ganjar']",X,3
+"['muka', 'benerin', 'tolol', 'tololin', 'ganjar', 'pintar', 'manusia', 'sampah', 'kaya', 'elu', 'bikin', 'statmen', 'gin', 'timbang', 'tim', 'nyadahlah', 'ga', 'suka', 'mending', 'diem', 'biar', 'muka', 'jelek', 'imbang', 'laku']",X,3
+"['bleaching', 'rambut', 'level', 'ganjar']",X,3
+"['anies', 'tinjau', 'ulang', 'revisi', 'ubah', 'bijak', 'metidaknti', 'oligarki', 'kuasa', 'karna', 'narasi', 'timpang', 'ketidakadilan', 'prabowo', 'lanjut', 'rezim', 'stabil', 'proyek', 'oligarki', 'ganjar', 'ssssaja', 'gimmick', 'sat', 'set', 'gesit']",X,3
+"['nyari', 'pimpin', 'dahulu', 'penting', 'rakyat', 'penting', 'ganjar', 'mahfud', 'layak', 'pimpin', 'indonesia']",X,3
+"['gas', 'poll', 'ganjar']",X,3
+"['ganjar', 'pranowo', 'kampanye', 'balikpapan', 'kalimantan', 'timur', 'selasa', '622024', 'dihadang', 'dukung', 'paslon', '02', 'prabowogibran', 'membentantidakan', 'poster', 'respon', 'ganjar', 'simak', 'selentidakapnya', 'video', 'narasi', 'daily']",X,3
+"['surat', 'suara', 'ganjarmahfud', 'caleg', 'pkb', 'demokrat', 'bukti', 'curang']",X,3
+"['gaya', 'lilin', 'ganjar']",X,3
+"['kebatidakan', 'putus', 'pilih', 'ganjar', 'pranowo', 'ganjar', 'presiden', 'rakyat', 'presiden', 'elit', 'lahir', 'rakyat', 'besar', 'rakyat', 'tempa', 'pahit', 'hidup', 'alam', 'reformasi']",X,3
+"['milik', 'dekat', 'sri', 'sultan', 'gubernur', 'kunjung', 'ganjar', 'patih', 'doa', 'restu', 'diskus', 'kembang', 'bangsa', 'negara']",X,3
+"['maaf', 'patriot', 'sejati', 'dissssajari', 'menclamencle', 'ganjar', 'pranowo']",X,3
+"['minggu', '4', 'februari', '2024', 'capres', 'ri', 'ganjar', 'pranowo', 'bangun', 'indonesia', 'adab', 'sehat', 'didik', 'budaya']",X,3
+"['ganjar', 'nyanyi', 'lumayan', 'beda', 'sama']",X,3
+"['ganjar', 'nahan', 'suntidakan', 'prabowo', 'anies', 'mampu', 'segi', 'kualitas', 'anies', 'kalah', 'dapat', 'pribadi', 'amuk']",X,3
+"['henti', 'bohong', 'publik', 'henti', 'klaim', 'menang', 'survei', 'atas', '60', 'perna', 'kumpul', 'massa', 'dukung', 'capai', '100000', 'bal', 'kampanye', 'ganjar', 'pranowo', 'petjah', 'hadir', '100000', 'ssssaja', 'klaim', '1', 'putar']",X,3
+"['survey', 'ganjar', 'rendah', 'panik', 'cerita', 'hebat', 'bedebah']",X,3
+"['semangat', 'satu', 'bendung', 'rakyat', 'pimpin', 'jalan', 'menang', 'berani', 'benar', 'pandu', 'lantidakah', 'sambut', 'datang', 'hssssajatan', 'rakyat', 'ganjarmahfud', 'solo', 'semarang', 'tatidakl', '10', 'februari', '2024', 'gerak']",X,3
+"['bu', 'mega', 'pdi', 'juang', 'bela', 'ahok', 'pdi', 'juang', 'partai', 'ideologi', 'pancasilais', 'presiden', 'adl', 'ganjar', 'pranowo', 'kader', 'pdi', 'juang', 'ahok']",X,3
+"['ganjar', 'mahfud', 'perhati', 'perempuan', 'indonesia', 'perhati', 'perempuan', 'ucap', 'bibir', 'serius', 'masuk', 'program', 'lindung', 'daya', 'perempuan', 'prioritas']",X,3
+"['gas', 'pilih', 'ganjar', 'mahfud']",X,3
+"['ganjar', 'pranowo', 'demokrasi', 'jurang']",X,3
+"['capres', '03', 'ganjar', 'pranowo', 'singgung', 'purnawirawan', 'jenderal', 'tni', 'luhur', 'binsar', 'pandjaitan', 'wiranto', 'agum', 'gumelar']",X,3
+"['momen', 'sapa', 'warga', 'klaten', 'hadir', 'pesta', 'rakyat', 'lapang', 'merdeka', 'delanggu', 'ganjar', 'mengssssajak', 'segenap', 'masayaarakat', 'hadir', 'belssssajar', 'bahasa', 'isayaarat', 'love', 'rabu', '07feb24']",X,3
+"['sama2', 'kapasitas', 'debat', 'sebenernya', 'ganjar', 'lumayan', 'kmaren']",X,3
+"['takdir', 'tuhan', 'yme', 'genap', 'juang', 'ganjar', 'mahfud', 'm3nang']",X,3
+"['untung', 'ketemu', 'ssssajak', 'foto', 'makan', 'bareng', 'kmren', 'dukung', 'ganjar', 'digebukin', 'panik']",X,3
+"['puluh', 'ribu', 'warga', 'kabupaten', 'magelang', 'ganjarmahfud']",X,3
+"['capekcapek', 'kuliah', 'hukum', 'pilih', 'culik', 'rugi', 'rugi', 'indonesia', 'indonesia', 'unggul', 'pilih', 'ganjar', 'mahfud']",X,3
+"['sapala', 'naung', 'hupillit', 'sapala', 'naung', 'hutodo', 'cinta', 'hidup', 'semat']",X,0
+"['momen', 'kampanye', 'bal', 'puluh', 'ribu', 'simpatisan', 'dukung', 'ganjar', 'penuh', 'lapang', 'optimis', 'ganjar', 'menang', 'bal']",X,3
+"['anies', 'baswedan', 'ganjar', 'pranowo', 'ga', 'adil', 'dewan', 'hormat', 'perwira', 'pecat', 'buka', 'mentidakui', 'culik', 'aktivis', 'media', 'libat', 'bantai', 'warga', 'sipil', 'timor', 'leste', 'sampe', 'larang', 'amerika', 'standar', 'pake']",X,3
+"['calon', 'presiden', 'nomor', 'urut', '3', 'ganjar', 'pranowo', 'kunjung', 'warga', 'dampak', 'banjir', 'grobogan', 'sana', 'mengssssajak', 'kader', 'rawan', 'turun', 'gotong', 'royong', 'bantu', 'korban', 'bencana', 'ganjar', 'menghimbau', 'perintah']",X,3
+"['presiden', 'jahat', 'politik', 'campur', 'adu', 'penting', 'pribadi', 'kampanye', 'anak', 'presiden', 'simbol', 'satu', 'ga', 'netral', 'curang', 'latidakr', 'uu', 'nepotisme', 'kolusi', 'intervensi', 'mk', 'penjara', 'henti', '50', 'kampus', 'mahasiswa', 'profesor', 'cendikiawan', 'budayawan']",X,0
+"['komunitas', 'tani', 'mandiri', 'grobogan', 'dukung', 'ganjar', 'pranowo', 'sosok', 'rakyat', 'aspiratif', 'diatidakp', 'bawa', 'aspirasi', 'tani']",X,3
+"['momen', 'kampanye', 'bal', 'puluh', 'ribu', 'simpatisan', 'dukung', 'ganjar', 'penuh', 'lapang', 'optimis', 'ganjar', 'menang', 'bal', 'mantaps', 'bal']",X,3
+"['ganjar', 'enih', 'cumak', 'masuk', 'njih', 'jual', 'minum', 'wktu', 'kampanye', 'hambok', 'borong', 'kasi', 'mreka']",X,3
+"['gas', 'poll', 'ganjar', 'mahfud', 'menang']",X,3
+"['tkn', 'pasti', 'prabowogibran', 'hadir', 'acara', 'dewan', 'pers', '10', 'februari']",X,2
+"['survei', 'prabowogibran', '52', 'persen', 'tkn', 'rawan', 'tebal', 'menang']",X,2
+"['kandang', 'banteng', 'jebol', 'torang', 'minahasa', 'larang', 'keras', 'tanah', 'leluhur', 'kotor', 'koruptor', 'banteng', 'pilih', 'prabowo', 'gibran', 'satu', 'paslon', 'visioner', 'bersih', 'korupsi', 'bersih', 'ham', 'putus', 'baik']",X,3
+"['rawan', 'tkn', 'prabowo', 'gibran', 'stress', 'petinggi', 'petinggi', 'sandera']",X,3
+"['paham', 'maksud', 'bu']",X,0
+"['sulit', 'sirkel', 'perintah', 'itu2', 'sssssaja', 'alas', 'pilih', '02']",X,2
+"['pelatidakran', 'etik', 'ketua', 'kpu', 'peluang', 'diskualifikasi', 'gibran']",X,2
+"['kembali', 'bijak', 'laut', 'bu', 'sus', 'jabat', 'menteri', 'tolong', 'jadi', 'bu', 'sus', 'menteri']",X,0
+"['istri', 'juang', 'anak', 'dewasa', 'kelak', 'pimpin', 'gibran', 'kaesang', 'hebat', 'salut', 'istri']",X,2
+"['bijak', 'jokowi', '5', 'mimpi', 'payah']",X,2
+"['presiden', 'batal']",X,0
+"['tanda', 'tanda', 'gibran', 'presiden', 'bayang', 'gibran', 'presiden']",X,3
+"['hindar', 'gedebage', 'prabowogibran', 'gelar', 'acara', 'stadion', 'gbla']",X,2
+"['gaya', 'gibran', 'dipake', 'sepa']",X,2
+"['tuntut', 'makzul', 'jokowi', 'mahasiswa', 'bakar', 'spanduk', 'prabowo', 'gibran', 'istana', 'merdeka', 'jakarta']",X,3
+"['bangun', 'jis', 'incredibles', 'sampe', 'acara', 'mega', 'structure', 'geographic', 'channel', 'stadion', 'direnov', 'incredible', 'mana']",X,0
+"['gibran', 'blg', 'ken', 'wakil', 'anies', 'bener2', 'buzzer', 'suka', 'banget', 'memutarbalikkan', 'fakta']",X,3
+"['anies', 'kalah', 'politikus', 'gibran', 'ragu', 'menang', 'etidak', 'nurut', 'sama', 'papap', 'ga', 'resign', 'walkot']",X,3
+"['bobby', 'bikin', 'stadion', 'sombong', 'gibran', 'bikin', 'solo', 'kosong', 'kek', 'isi', 'kepala', 'ga', 'bedain', 'renovasi', 'bikin']",X,2
+"['stop', 'blg', 'gibran', 'rebut', 'anjir', 'lee', 'gwanhee']",X,2
+"['stadion', 'bangun', 'solo', 'manah', 'renovasi', 'bangun', 'bedain', 'renovasi', 'bantu', 'apbn', 'nebar', 'hoax', 'bodoh']",X,0
+"['rakyat', 'kalong', 'prabowo', 'gibran']",X,3
+"['ribu', 'kawan', 'musuh', 'menantidakan', 'prabowogibran', 'putar', 'tani', 'blebohblora']",X,2
+"['tunjuk', 'bunyi', 'atur', 'batas', 'presiden', 'kampanye', 'pasal', 'lanjut', 'prosedur', 'sayaaratnya', 'kampanye', 'bansos', 'manuver', 'calon', 'gibran', 'cacat', 'etik']",X,2
+"['ngobrol', 'gibran', '10', 'jam']",X,2
+"['siap', 'biru', 'satadion', 'gbk', 'tgl', '10', 'februari', 'prabowogibran', 'kitapakbowo', 'kitagibran', 'siapsiap', 'biruinjakarta']",X,2
+"['pesantren', 'tebuireng', 'tegas', 'dukung', 'prabowogibran', 'pilpres', '2024']",X,2
+"['rombong', 'horang2', 'duit', 'video', 'rombong', 'ngerti', 'hidup', 'susah', 'coba', 'bayangin', 'bak']",X,0
+"['anies', 'gibran', 'daftar', 'kpu']",X,3
+"['tegas', 'netral', 'pesantren', 'tebuireng', 'bantah', 'dukung', 'prabowogibran']",X,2
+"['pesantren', 'tebuireng', 'jombang', 'bantah', 'dukung', 'prabowogibran', 'pilpres', '2024']",X,2
+"['dissssajak', 'cil', 'sono', 'tidur', 'bareng', 'gibran', 'malem', 'bocil', 'gaboleh', 'tidur', 'malem', 'awookawkoaw']",X,2
+"['gus', 'kikin', 'ponpes', 'tebuireng', 'netral', 'pilpres', '2024', 'klarifikasi', 'dukung', 'prabowo', 'gibran', 'ponpes', 'wakil', 'sikap', 'lembaga']",X,3
+"['muntidakin', 'bangun', 'tuju', 'omklo', 'demokrasi', 'tunggu', 'track', 'record', 'mengantidakangi', 'konstitusi', 'maju', 'cawapresnya', 'bukti', 'melatidakr', 'etik', 'tunggu']",X,0
+"['adikadik', 'doa', 'milu', 'jalan', 'aman', 'damai', 'ayah', 'prabowo', 'gibran', 'menang', 'putar', 'masadepan', 'cerah']",X,3
+"['prabowogibran', 'hadir', 'kampanye', 'akbar', 'tajuk', 'konser', 'indonesia', 'maju', 'deli', 'serdang']",X,2
+"['henti', 'jilat', 'baik', 'ikut', 'anjur', 'gibran']",X,2
+"['pakar', 'htn', 'ugm', 'kacau', 'putus', 'dkpp', 'kpu', 'paksa', 'arah', 'calon', 'gibran']",X,2
+"['gibran', 'nenek', 'ssssaja', 'ga', 'tau', 'paham']",X,2
+"['jelang', 'coblos', '14', 'februari', '2024', 'suhu', 'politik', 'tanah', 'air', 'panas', 'menteri', 'investasi', 'bahlil', 'lahadalia', 'rawan', 'tim', 'kampanye', 'prabowogibran', 'pasang', 'badan', 'bahlil', 'buntu', 'milu', '1', 'putar']",X,2
+"['aq', 'pilih', '2']",X,2
+"['gibran', 'bangun', 'stadion', 'mana', 'stadion', 'manah', 'solo', 'renovasi', 'sehitidak', 'standar', 'fifa', 'dana', 'tri', 'pupr', 'dana', 'pemda', 'solo']",X,2
+"['rebut', 'gibran', 'mkmkmkmk', 'rebut', 'prof', 'mahfud', 'akal', 'coba', 'cek', 'wawancara', 'anies', 'ketemu', 'gibran']",X,3
+"['nicholas', 'bin', 'btapi', 'gentar', 'ganjar', 'takut', 'mahfud']",X,3
+"['purnawirawan', 'tni', 'au', 'deklarasi', 'dukung', 'ganjarmahfud']",X,3
+"['pagi', 'mahfud', 'hukum', 'resep', 'kue', 'moral', 'etika', 'bahan', 'dasar', 'bahan', 'dasar', 'nikmat', 'muntidakin', 'racun', 'era', 'copypaste', 'moral', 'etika', 'plagiarism']",X,3
+"['cerdas', 'waras', 'milenial', 'gen', 'generasi', 'selamat', 'demokrasi', 'pancasila', 'pilih', 'ganjarmahfud', 'merdeka', 'anak', 'muda', 'etika']",X,3
+"['ganjar', 'mahfud']",X,3
+"['goyah', 'ganjar', 'mahfud', 'beliau', 'dua', 'harap', 'pimpin', 'bangsa', 'indonesia']",X,3
+"['mahfud', 'blakblakan', 'rektor', 'tekan', 'puji', 'jokowi', 'polda', 'jateng', 'aku', 'perintah', 'aksi']",X,3
+"['definisi', 'buka', 'satu', 'prof', 'mahfud', 'ahok', 'confess']",X,3
+"['lari', 'pagi', 'sehat', 'jiwa', 'raga', 'joget', 'gemoy', 'hibur', 'ayok', 'pilih', 'ganjar', 'mahfud', 'sssssaja', 'jadi', 'indonesia', 'unggul', 'negeri']",X,3
+"['selamat', 'pagi', 'temans', 'semangat', 'optimis', 'ganjarmahfud', 'dekat', 'menang', 'sebaikbaiknya', 'manusia', 'bawa', 'gembira', 'sama', 'lintidakungan']",X,3
+"['kms', 'kariyasa', 'senayan', 'periode', '2', 'ganjar', 'mahfud', '95', 'caletidaku', 'calegmu']",X,3
+"['mahfud', 'gibran', 'hukum', 'moral', 'kucil', 'sosial', 'bentuk', 'cibir']",X,2
+"['mahfud', 'politik', 'dinasti', 'sah', 'jalan', 'larang', 'politik', 'dinasti', 'rekayasa', 'ubah', 'atur', 'hitidak', 'putus']",X,3
+"['mahfud', 'tuju', 'koruptor', 'hukum', 'mati']",X,3
+"['tutorial', 'ngssssajarin', 'haters', 'nabbsky', 'rizky', 'mahfud', 'main', 'valorant', 'dek', 'tenang', 'baekan', 'love', 'hate', 'relationship']",X,0
+"['reforma', 'agraria', 'kategori', 'dasar', 'selesai']",X,0
+"['prof', 'mahfud', 'solo', 'version']",X,3
+"['dagang', 'warga', 'palembang', 'ganjar', 'mahfud', 'stabil', 'harga', 'sembako']",X,3
+"['ganjar', 'mahfud', 'kuasa', 'rakyat', 'indonesia', 'pesta', 'rakyat', 'ganjarmahfud', 'klaten']",X,3
+['mahfud'],X,3
+"['untidakap', 'alas', 'korupsi', 'mahfud', 'tuju', 'koruptor', 'hukum', 'mati']",X,3
+"['ganjar', 'mahfud', 'indonesia', 'tgl', '14', 'februari', 'pilih', 'pimpin', 'beban', 'kelam', 'pilih', 'rekam', 'jejak']",X,3
+"['tengah', 'megah', 'pesta', 'rakyat', 'ganjarmahfud', 'klaten', 'ganjar', 'pranowo', 'serta', 'rombong', 'hadir', 'sapa', 'puluh', 'ribu', 'warga', 'klaten', 'malam', 'rabu', '72', 'nasihat', 'jaga', 'rukun', 'ganjar', 'wejang', 'pelssssajar']",X,3
+"['menang', '1', 'putar', 'sudang', 'muntidakin', 'menang', 'putar', 'keok', 'ayo', 'gas', 'ganjar', 'mahfud', 'menang', '1', 'putar']",X,3
+"['puluh', 'ribu', 'masayaarakat', 'padat', 'lapang', 'merdeka', 'klaten', 'saksi', 'riah', 'acara', 'pesta', 'rakyat', 'ganjarmahfud', 'sempat', 'puluh', 'ribu', 'masayaarakat', 'hadir', 'satu', 'tekad', 'dukung', 'ganjarmahfud', 'pilpres', '2024', 'percaya']",X,3
+"['nyiapin', 'mahfud']",X,3
+"['prof', 'mahfud', 'mana', 'beliau', 'isi', 'acara', 'tutup', 'beliau', 'nyanyi', 'indonesia', 'pusaka', 'bareng2', 'wkt', 'beliau', 'isi', 'kuliah', 'udayana', 'oktober', 'segitu', 'tulus', 'beliau', 'negeri', 'sehat', 'prof']",X,0
+"['prof', 'mahfud', 'rekam', 'live']",X,3
+"['mahfud', 'dinasti', 'politik', 'larang', 'melantidakahi', 'konstitusi', 'politik', 'dinasti', 'dinasti', 'keluarga', 'fakta', 'jabat', 'terus', 'jabat', 'bapak', 'ayah', 'saudara', 'ibu', 'dunia', 'mana', 'larang']",X,0
+"['sma', 'dewasa', 'bilang', 'nilai', '11100', 'sopan', 'gestur', 'clintidakclinguk', 'gibran', 'prof', 'mahfud']",X,2
+"['sebenernya', '3', 'mahfud', '1', 'anj', 'uddah', 'fals', 'typo', 'pas', 'nyanyi', 'denger', 'denger', 'sesi', 'debat', '4']",X,3
+"['sayaukurlah', 'surveynya', 'nyungsep', 'jokowi', 'kampanye', 'mahfud', 'bilang']",X,2
+"['logical', 'fallacy', 'sebal', 'orang2', 'dukung', 'paslon', 'appeal', 'authority', 'korban', 'laku', 'jadi', 'culi', 'korban', 'maaf', 'jadi', 'salah']",X,0
+"['makasih', 'video', 'mbah', 'pilih', 'pak', 'prabski', 'suka', 'ngssssajak', 'ikut', 'ikut', 'suka', 'paslon', 'belah', 'nyindir2', 'sampe', 'pakai', 'bahasa', 'kasar']",X,2
+"['slama', 'korupsi', 'msih', 'gila', 'slama', 'pnetidakkan', 'adil', 'hukum', 'ngr', 'lemah', 'sulit', 'brharap', 'kmajuan', 'bidang', 'apa', 'menpora', 'korupsi', 'adem', 'anyem', 'kesjahtraan', 'atlet', 'trabaikan', 'rakyat', 'suruh', 'pilih', 'paslon', '02', 'dendam', 'gagal', 'pildun', 'u20']",X,2
+"['benerr', 'nyasarnya', 'tiap2', 'segmen', 'masayaarakat', 'berbedadisesuaikan', 'sesuai', 'butuh', 'masing2', 'ga', 'paslon', 'belah', 'solusi', 'daya', 'wanita', 'jawab', 'pake', 'program', 'makan', 'siang', 'gratis', 'atas', 'depresi', 'jawab', 'makan', 'siang', 'gratis']",X,2
+"['just', 'silent', 'reader', 'single', 'fighter', 'rujak', 'pas', 'milu', 'pilih', 'turut', 'pantes', 'karna', 'kyk', 'salah', 'banget', 'dukung', 'paslon']",X,0
+"['survei', '52', 'menang', 'sibuk', 'ngurusi', 'paslon', 'gabung', 'panglima', 'bakar', 'menang', 'total', 'boskuu']",X,0
+"['beda', 'pilih', 'sikap', 'adil', 'hormat', 'basudara', 'gagal', 'paham', 'tulis', 'kau', 'cari', 'cermin', 'baca', 'postinganmu', 'adil', 'niat', 'saudara', 'dukung', 'paslon']",X,0
+"['rugi', 'banget', 'pilih', 'coblos', 'paslon', '01']",X,1
+"['benarlebih', 'calon', 'paslon', '02', 'batal', 'hukum']",X,2
+"['reason', 'makes', 'convinced', 'pilih', '01', 'satusatunya', 'paslon', 'program', 'lintas', 'sektor', 'tani', 'dagang', 'program', 'base', 'kondisi', 'wilayah', 'sumatera', 'jawa', 'landscape', 'pulau', 'gunung', 'cont']",X,1
+"['malam', 'mahasiswa', 'demo', 'istana', 'bakar', 'spanduk', 'salah', 'paslon', 'milu']",X,0
+"['milu', 'damai', 'tindak', 'curang', 'paslon', 'paslon', 'pakai', 'fasilitas', 'negara', 'raup', 'suara', 'puja', 'puji', 'nama', 'jilat', 'untung', 'paslon', '02', 'timbul', 'resah', 'masayaarakat']",X,2
+"['duluuuu', 'koruptor', 'kabur', 'negerisekaranggggpara', 'koruktor', 'kabur', 'paslon', '02']",X,2
+"['mbah', 'mesti', 'rombong', 'paslon']",X,0
+"['kekekekekenapa', '01', 'ideal', 'pimpin', 'bangsa', 'indonesia', 'paslon', '01', 'milik', 'komitmen', 'bebas', 'dapat', 'ekspres', 'abah', 'bukti', 'dki', '5', 'imin', '1991', 'rengasdentidaklok']",X,1
+"['ush', 'maksain', 'ketemen', 'mu', 'pilih', 'beda', 'wssssajar', 'hak', 'paslonnya', 'beda', 'hak', 'milih', 'paslon', 'mu']",X,0
+"['jual', 'paslon', 'sssssaja', 'grace', 'ga', 'komentar', 'aneh2', 'seru', 'moral', 'civitas', 'akademika', 'ga', 'baik2', 'negara', 'guru', 'dosen', 'manusia', 'hak', 'suara', 'lain2', 'kekekekekenapa', 'tuduh', 'partisan']",X,1
+"['bahasa', 'layak', 'duga', 'arah', 'paslon']",X,0
+"['10', 'februari', '2024', 'perhati', 'dunia', 'jakarta', 'international', 'stadium', 'jis', 'helat', 'akbar', 'performance', 'paslon', 'amin01', 'hadir', 'beramairamai', 'rakyat', 'indonesia']",X,1
+"['tau', 'tipikal', 'dukung', 'paslon', 'onoh', 'hina']",X,0
+"['bjirrrrr', 'ngritik', 'program', 'dibalesnya', 'suka', 'paslonnya', 'hina', 'program', 'muntidakin', 'butuh', 'gabisa', 'bedain', 'kritik', 'hina', 'khh', 'capresnya', 'suka', 'ngatain', 'paslon', 'bjir']",X,0
+"['merinding', 'dipikir2', 'pndukung', '01', '03', 'banyak', 'lempar', 'bukti', 'capai', '02', 'dukung', 'banyak', 'fokus', 'lempar', 'lemah', '2', 'paslon', 'saing', 'sampe', 'ga', 'liat', 'buzz', 'capai', '02', 'muntidakin', 'emang', 'ga', 'merinding']",X,3
+"['dukung', 'gini2', 'ga', 'hitung', 'mbak', 'dihighlight', 'cmn', 'berkata2', 'kasar', 'generalisasi', 'admin', 'tau', 'cmn', 'ken', 'jatuhin', 'paslon']",X,0
+"['hoaks', 'sebar', 'dukung', 'paslon']",X,2
+"['keroyok', 'akunakun', 'afiliasi', 'salah', 'paslon', 'puluh', 'akun', 'tangan', 'membuntidakam', 'sssssaja', 'berangan', 'riil', 'akun', 'minder']",X,2
+"['paslon', '2', 'pilih', 'demokrasi', 'sehat']",X,2
+"['posting', 'paslon', '02', 'video', 'nyanyi', 'fix', 'sok']",X,2
+"['cuman', 'untung', 'diem', 'ssssaja', 'dukung', 'paslon', '02', 'menang', 'bagi', 'jabat', 'gajih', 'ratus', 'juta', 'pilih', 'jalan', 'fight', 'atidakp', 'uang']",X,2
+"['iklan', 'partai', 'dukung', 'paslon', 'kampanye', 'maaf', 'serius']",X,0
+"['folls', '109', 'repost', 'vt', 'salah', 'paslon', 'folls', '106']",X,0
+"['kau', 'perintah', 'aparat', 'turun', 'apk', 'paslon', 'saat', 'kuat', 'agen', 'ubah', 'mahasiswa', 'balas', 'sikap', 'laku']",X,1
+"['hahaha', 'pas', 'malam', 'acara', 'pena', '4', 'bicara', 'nilai', 'minus', 'gong', 'bener', 'dukung', 'nilai', 'minus', 'paslon', 'dukung']",X,0
+"['orasi', 'mahasiswa', 'rabu', '722024', 'milu', 'tolak', 'milu', 'curang', 'tolak', 'dinasty', 'politik', 'diskualifikasi', 'paslon', '02']",X,2
+"['3', 'jenis', 'gratis', 'paslon', 'baca', 'lebih', 'masing2', 'paslon']",X,0
+"['optimisme', 'digauntidakan', 'paslon', '03', 'calon', 'pimpin', 'bawa', 'sejahtera', 'rakyat', 'pimpin', 'memperjuantidakan', 'tuan']",X,3
+"['nasehat', 'bijak', 'mari', 'belssssajar', 'sama2', 'melek', 'politik', 'negeri', 'lgi', 'sapi', 'perah', 'suara', 'paslonorg2', 'rakus', 'kuasa', 'manusia', 'pnya', 'akal', 'milik', 'negeri', 'ayo', 'jugan', 'apatis']",X,0
+"['real', 'tanda', 'ga', 'mendewa2kan', 'paslon', 'pilih']",X,0
+"['pupuk', 'subsidi', 'jubir', 'amin', 'tekan', 'pihak', 'paslon', '01', 'tani']",X,2
+"['beda', 'colok', 'paslon', '02', 'kosong', '03', 'colok', 'hadap', 'rakyat', 'jelata', 'ganjar', 'rakyat', 'visi', 'misi', 'bobot', '03', 'jantidaka', 'akal', 'sehat', 'pilih', 'presiden']",X,3
+"['batidakin', 'survei', 'diramein', 'tim', 'doang', 'lintidakup', 'warkop', 'pinggir', 'hasil', 'survei', 'muak', '2014', '2019', '2024', 'ssssaja', 'kekekekekenapa', 'ga', 'batidakin', 'program', 'paslon', 'dukung', 'makan', 'siang']",X,2
+"['pelatidakran', 'kode', 'etik', 'atur', 'paslon', 'malu', 'mundur', 'kite', 'olah', 'dikerjain', 'sengsaja', 'harus', 'akhir', 'kampanye', 'pelatidakran', 'untidakap', 'maju', 'mahasiswa', 'generasi', 'harap', 'bangsa']",X,0
+"['muntidakin', 'muak', 'mahasiswa', 'sweeping', 'poster', 'salah', '1', 'paslon', 'tebar']",X,0
+"['pilih', 'paslon', 'dukung', 'tukang', 'bohong']",X,2
+"['ga', 'bayang', 'stress', 'prabowo', 'kalah', 'duit', 'habis', 'tenaga', 'kuras', 'hukum', 'mataberikut', 'lurah', 'bijak', 'bijak', 'potensi', 'rugi', 'negara', 'contoh', 'food', 'estate', 'ssssajalah', 'ngeri', 'ngeri', 'sedep', 'eeuy']",X,2
+"['prabowo', 'masayaarakat', 'sumut', 'makan', 'siang', 'internet', 'gratis']",X,2
+"['prabowo', 'nyapres', 'emang', 'tulus', 'negara', 'biar', 'bisnis', 'mandek']",X,2
+"['pentidakuan', 'rawan', 'prabowo', 'dadak', 'dissssajak', 'makan', 'ganjar', 'bentang', 'baliho']",X,3
+"['jelang', 'coblos', 'rawan', 'nyala', 'ribu', 'lilin', 'rumah', 'prabowo']",X,2
+"['posting', 'sayang', 'doa', 'insayaaallah', 'president', '8', 'aamiin']",X,0
+"['best', 'campaign', 'moment', 'sambut', 'dukung', 'prabowo', 'sikat', 'dissssajak', 'makan', 'siang', 'beda', 'jadi', 'tempo', 'top']",X,2
+"['2019', 'jokowi', 'kampanye', 'pakai', 'isu', 'ham', 'diktator', 'janji', 'tuntas', 'ham', 'selesai', 'pilpres', 'jokowi', 'antidakat', 'prabowo', 'menhan', 'ham', 'tunggu', 'keluarga', 'korban', 'terbentidakalai', 'jokowi', 'penting', 'dukung', 'prabowo', 'presiden']",X,3
+"['lupa', 'prabowo', 'sembako', 'tim', 'gencar', 'sembako', 'terima', 'sssssaja', 'pilih', 'amin']",X,3
+"['sssssaja', 'libat', 'pecat', 'prabowo', 'militer', 'tetidak', 'lurus', 'putus', 'dukung', 'prabowo', 'bahas', 'tagar', 'anak', 'abah']",X,1
+"['keledai', 'pilih', 'prabowo']",X,2
+"['2014', '2019', 'milih', 'prabowo', 'ga', 'milih', 'jokowi', 'pilih', '2']",X,3
+"['dengerin', 'nyata', 'prabowo']",X,2
+"['gilir', 'prabowo', 'bully', 'stroke', 'pincang', 'riang', 'gembira', 'ga', 'pilih', 'amin', 'islam', 'ga', 'pilih', 'amin', 'dosa', 'tambah', 'iman', 'laku', 'adil']",X,3
+"['arsiparsip', 'berita', 'prabowo', 'libat', 'jahat', 'hilang', 'paksa', 'aktivis', 'pro', 'demokrasi', '19971998', 'selentidakapnya', 'buku', 'kronik', 'culi', 'aktivis', 'keras', 'negara', '1998', 'karya', 'muhidin', 'dahlan', 'sejarah', 'mesti', 'dipelssssajari', 'pahit']",X,2
+"['banget', 'nyulik', 'dibalikin', 'unsur', 'pidana', 'hilang', 'hukum', 'ala', 'prabowo', 'suka', 'trabas', 'hukum', 'prabowo', 'menang', 'koruptor', 'senang', 'korupsi', 'balikinbebas', 'rusakrusak']",X,3
+"['bilang', 'mending', 'jahat', 'pendeta', 'jahat', 'contoh', 'prabowo', 'ga', 'ubah', 'jahat', 'jugan', 'heran', 'jahat', 'jahat', 'stigma']",X,2
+"['pilih', 'prabowo', 'pilih', 'baik', 'sisa', 'buruk', 'pilih', 'kekekekekenapa', 'ngambil', 'sisa', 'buruk']",X,2
+"['job', 'buzzer', 'karna', 'iseng', 'bilang', 'black', 'campaign', '01', 'gataunya', '03', 'kekekekekenapa', 'gue', 'tau', 'pas', 'pencet', 'hastag', 'tweet', 'ngejelkin', 'prabowo', 'tapi', 'tinggi', '03', 'gue', 'bingung', '01', 'beneran', '03', 'mengatasnamakan', '01']",X,3
+"['kisah', 'prabowo', 'usung', 'jokowi', 'cagub', 'dki', '2012']",X,3
+"['sindir', 'ahok', 'bilang', 'jokowi', 'prabowo', 'otak', 'periksa']",X,3
+"['untung', 'jokowi', 'prabowo', 'untung', 'jar', 'hadir', 'suara', 'lolos', 'cap', 'politik', 'identitas', 'super', 'whwhwhwhw']",X,3
+"['anies', 'dateng', 'cap', 'politik', 'identitas', 'jokowi', 'prabowo', 'hadir', 'orasi', 'lepas', 'politik', 'identitas', 'duaduanya', 'suara', 'situ', 'sopo', 'untung', 'ahok', 'whwhwhwhw']",X,3
+"['anies', 'dateng', 'tetep', 'diuntuntidakan', 'olok', 'politik', 'identitas', 'sedantidakan', 'dateng', 'prabowo', 'jokowi', 'lepas', 'predikat', 'politik', 'identitas', 'diuntuntidakan', 'rugi', 'whwhwhwhw']",X,3
+"['titidakl', 'bls', 'prabowo', 'sampah', 'pungut', 'sama', 'megawati']",X,2
+"['cmn', 'kasih', 'tau', 'prabowo', 'usaha', 'susu', 'nusantara', 'gibran', 'usaha', 'makan', 'katering', 'make', 'sense', 'program', 'bkin']",X,3
+"['ga', 'ngomong', 'dosa', 'prabowo', 'proker', 'gajelas', 'ga', 'bener', 'ssssaja', '2019', 'debat', 'ga', 'isi', '2019', 'jokowi', 'plonga', 'plongo', 'ssssaja', 'pas', 'debat', 'beneran', 'aneh', 'pilih', 'prabs', 'milih', 'gibran', 'anak', 'jkw', 'pilih']",X,3
+"['block', 'munafik', 'jilat', 'mantidakana', 'indonesia', 'maju2', 'jssssajah', 'belanda', 'negara', 'munafik', 'jilat', 'sebagaimn', 'kekekekekenapa', 'ndukung', 'prabowo', 'sayaaratnya', 'bodoh']",X,2
+"['jokowi', 'sssssaja', 'abai', 'hukum', 'ham', 'gagal', 'demokrasi', 'prabowo', 'gibran', 'dinasti', 'jokowi', 'double', 'combo', 'rusak', 'penetidakan', 'hukum', 'ham', 'demokrasi', 'pelatidakran', 'etika']",X,3
+"['prabowo', 'ntidaku', 'ayah', 'mentidakui', 'culik', 'interview', 'petinggi', 'tni', 'mentidakui', 'sila', 'baca', 'putus', 'dewan', 'hormat', 'perwira', 'nomor', 'kep03viii1998dkp']",X,2
+"['prabowo', 'titidakl', 'lantik', 'sssssaja', 'panik', 'panik', 'dewany', 'mash', 'posisi', 'juru', 'kunci', 'elektbilitas', '16']",X,2
+"['fakta', 'prabowo', '4', 'putar']",X,2
+"['rawan', 'prabowogibran', 'nyala', '1000', 'lilin', 'seru', 'milu', 'damai']",X,2
+"['video', '1', 'saiful', 'mujani', 'blakan', 'kait', 'koalisi', 'prabowo', 'video', '2', 'alas', 'unpad', 'keluar', 'seru', 'jokowi', 'jaga', 'moral', 'etika', 'meme', '3', '4', 'pj', 'gubernur', 'dki', 'bagi', 'bansos', 'totebag', 'warna', 'ciri', 'khas', '02']",X,3
+"['prabowogibran', 'kalah', 'pelssssajaran', 'jokowi', 'tindak', 'sewssssajarnya', 'presiden', 'moral', 'presiden', 'nepotisme']",X,3
+"['menit', '32', 'anak', 'peluk', 'ayah', 'beliau', 'cinta', 'cinta', 'allah', 'hendak']",X,0
+"['gugat', 'kpu', 'ptun', 'tapidi', 'calon', 'prabowogibran', 'sah', 'batal']",X,2
